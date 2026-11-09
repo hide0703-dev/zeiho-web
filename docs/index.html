@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>税務六法Web</title>
+<meta name="description" content="国税・地方税の法律・施行令・施行規則を、e-Gov法令検索の原文から読みやすく表示する条文ビューア。">
+<meta name="theme-color" content="#24466B">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icon-180.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="税務六法">
+<link rel="stylesheet" href="style.css">
+</head>
+<body class="color">
+<header class="bar">
+  <a class="brand" href="#/" aria-label="トップへ">税務六法<span>Web</span></a>
+  <button class="toc-btn" id="tocBtn" type="button" aria-controls="toc" aria-expanded="false" hidden>目次</button>
+  <form class="jump" id="jump" role="search" autocomplete="off">
+    <label class="sr" for="q">条文へ移動</label>
+    <input id="q" name="q" type="search" inputmode="search" placeholder="法法22　所令7の2　措法41の5③" enterkeyhint="go">
+    <button type="submit">直行</button>
+  </form>
+  <div class="tools" role="group" aria-label="表示の設定">
+    <button type="button" id="tColor" aria-pressed="true" title="括弧の深さで色分け">色分け</button>
+    <button type="button" id="tThin" aria-pressed="false" title="括弧書きを薄くして骨格を読む">薄字</button>
+    <button type="button" id="tSmall" aria-label="文字を小さく">小</button>
+    <button type="button" id="tLarge" aria-label="文字を大きく">大</button>
+  </div>
+</header>
+<p class="jump-msg" id="jumpMsg" role="status" aria-live="polite"></p>
+<div class="layout" id="layout">
+  <nav class="toc" id="toc" aria-label="目次" hidden></nav>
+  <main id="main" tabindex="-1"><p class="loading">読み込み中…</p></main>
+</div>
+<footer class="foot">
+  <p id="footBuild"></p>
+  <p>法令データ：e-Gov法令検索（デジタル庁）の法令APIから取得し、出典を明示して加工・表示しています。正確な内容は必ず原文・官報でご確認ください。</p>
+</footer>
+<script src="app.js"></script>
+</body>
+</html>

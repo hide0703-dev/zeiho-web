@@ -1,0 +1,106 @@
+name: 改正チェック（確認後公開）
+
+# 毎月2日 05:00（日本時間）と、改正の多い3〜4月・9〜10月は毎週月曜 05:00 にも e-Gov を確認する。
+# 改正があれば取り直し → 変換 → 原文との全文照合 を行い、合格したら
+# 「確認待ち」のプルリクエストを立てる。マージした時点でサイトに反映される（main に直接は書かない）。
+# 手動でも実行できる（Actions → 改正チェック（確認後公開）→ Run workflow）。
+on:
+  schedule:
+    - cron: '0 20 1 * *'
+    - cron: '0 20 * 3,4,9,10 0'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: '確認だけ（改正があってもプルリクエストを立てない）'
+        type: boolean
+        default: false
+
+concurrency:
+  group: law-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    permissions:
+      contents: write
+      pull-requests: write
+      issues: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 改正の有無を調べる
+        id: check
+        run: |
+          python scripts/fetch_laws.py --revisions-only
+          python scripts/check_updates.py
+          {
+            echo '## 改正チェックの結果'; echo; echo '```'; cat check.txt; echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: 改正のあった法令を取り直して変換する
+        if: steps.check.outputs.changed == 'true'
+        run: |
+          python scripts/fetch_laws.py --only ${{ steps.check.outputs.keys }}
+          python scripts/build_laws.py --only ${{ steps.check.outputs.keys }}
+
+      # 1条でも原文と食い違えば、ここで止まる（プルリクエストは立たない）
+      - name: 原文と全文照合する
+        if: steps.check.outputs.changed == 'true'
+        run: python scripts/verify_laws.py --only ${{ steps.check.outputs.keys }} | tee -a check.txt
+
+      - name: 確認待ちのプルリクエストを立てる
+        if: steps.check.outputs.changed == 'true' && !inputs.dry_run
+        env:
+          GH_TOKEN: ${{ github.token }}
+          SUMMARY: ${{ steps.check.outputs.summary }}
+          OWNER: ${{ github.repository_owner }}
+        run: |
+          set -euo pipefail
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -q -B data-update
+          git add docs/data
+          if git diff --cached --quiet; then echo "差分なし"; exit 0; fi
+          git commit -q -m "法令データ更新（確認待ち）：${SUMMARY}" -m "$(cat check.txt)"
+          git push -q --force origin data-update
+          {
+            echo "## 法令の改正を検知しました"
+            echo
+            echo "**このプルリクエストをマージすると、サイトに反映されます。** マージするまで、公開中のサイトは前回の内容のままです。"
+            echo
+            echo "- 原文（e-Gov）との全文照合：合格"
+            echo "- 実行ログ：${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+            echo
+            echo "### 確認のしかた"
+            echo "1. 下の結果で、改正のあった法令・施行日・改正法令を確かめる"
+            echo "2. 気になる条文は e-Gov法令検索の原文と見比べる"
+            echo "3. 問題なければ「Merge pull request」→「Confirm merge」"
+            echo
+            echo '```'; cat check.txt; echo '```'
+          } > pr_body.md
+          if gh pr view data-update --json state -q .state 2>/dev/null | grep -q OPEN; then
+            gh pr edit data-update --title "【確認待ち】法令データ更新：${SUMMARY:0:120}" --body-file pr_body.md
+          else
+            gh pr create --base main --head data-update --title "【確認待ち】法令データ更新：${SUMMARY:0:120}" \
+              --body-file pr_body.md --assignee "$OWNER"
+          fi
+
+      - name: 失敗したら Issue で知らせる
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          url="${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          body="改正チェックが失敗しました（データは更新していません。公開中のサイトは前回のままです）。
+          実行ログ：$url"
+          n=$(gh issue list --label update-failed --state open --json number -q '.[0].number' || true)
+          if [ -n "$n" ]; then gh issue comment "$n" --body "$body"
+          else
+            gh label create update-failed --color B5342A --description "改正チェックの失敗" 2>/dev/null || true
+            gh issue create --title "改正チェックが失敗しています" --body "$body" --label update-failed --assignee "${{ github.repository_owner }}"
+          fi
