@@ -1,0 +1,29 @@
+{
+  "_note": "収録する法令解釈通達。entry は国税庁サイトの目次ページ、scope はその通達のページが置かれたフォルダ（この下だけを辿る）。group は laws.json のグループに対応。",
+  "tsutatsu": [
+    {"key": "shotoku_kt",  "group": "shotoku", "abbr": "所基通", "title": "所得税基本通達",
+     "entry": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/01.htm", "scope": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/"},
+    {"key": "houjin_kt",   "group": "houjin",  "abbr": "法基通", "title": "法人税基本通達",
+     "entry": "https://www.nta.go.jp/law/tsutatsu/kihon/hojin/01.htm", "scope": "https://www.nta.go.jp/law/tsutatsu/kihon/hojin/"},
+    {"key": "souzoku_kt",  "group": "souzoku", "abbr": "相基通", "title": "相続税法基本通達",
+     "entry": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/01.htm", "scope": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/"},
+    {"key": "hyoka_kt",    "group": "souzoku", "abbr": "評基通", "title": "財産評価基本通達",
+     "entry": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/01.htm", "scope": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/"},
+    {"key": "shohi_kt",    "group": "shohi",   "abbr": "消基通", "title": "消費税法基本通達",
+     "entry": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/01.htm", "scope": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/"},
+    {"key": "sochi_kt",    "group": "sochi",   "abbr": "措通", "title": "租税特別措置法関係通達（申告所得税関係）",
+     "entry": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/801226/sinkoku/01.htm", "scope": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/801226/sinkoku/"},
+    {"key": "sochi_jt",    "group": "sochi",   "abbr": "措通譲渡", "title": "租税特別措置法関係通達（山林所得・譲渡所得関係）",
+     "entry": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/710826/sanrin/sanjyou/01.htm", "scope": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/710826/sanrin/sanjyou/"},
+    {"key": "sochi_kabu",  "group": "sochi",   "abbr": "措通株式", "title": "租税特別措置法関係通達（株式等に係る譲渡所得等関係）",
+     "entry": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/020624/sanrin/01.htm", "scope": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/020624/sanrin/"},
+    {"key": "sochi_gensen", "group": "sochi",  "abbr": "措通源泉", "title": "租税特別措置法関係通達（源泉所得税関係）",
+     "entry": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/880331/gensen/58/01.htm", "scope": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/880331/gensen/"},
+    {"key": "tsusoku_kt",  "group": "tsusoku", "abbr": "通基通", "title": "国税通則法基本通達（徴収部関係）",
+     "entry": "https://www.nta.go.jp/law/tsutatsu/kihon/tsusoku/mokuji.htm", "scope": "https://www.nta.go.jp/law/tsutatsu/kihon/tsusoku/"},
+    {"key": "choshu_kt",   "group": "choshu",  "abbr": "徴基通", "title": "国税徴収法基本通達",
+     "entry": "https://www.nta.go.jp/law/tsutatsu/kihon/chosyu/index.htm", "scope": "https://www.nta.go.jp/law/tsutatsu/kihon/chosyu/"},
+    {"key": "inshi_kt",    "group": "inshi",   "abbr": "印基通", "title": "印紙税法基本通達",
+     "entry": "https://www.nta.go.jp/law/tsutatsu/kihon/inshi/mokuji.htm", "scope": "https://www.nta.go.jp/law/tsutatsu/kihon/inshi/"}
+  ]
+}

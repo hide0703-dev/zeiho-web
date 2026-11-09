@@ -1,0 +1,39 @@
+name: 通達原文取得（開発用）
+
+# 国税庁サイトから通達ページを取り、raw-tsutatsu ブランチに置くだけ。サイトには触らない。
+on:
+  workflow_dispatch:
+    inputs:
+      only:
+        description: '取得する通達の key（空白区切り。空なら全部）'
+        type: string
+        default: ''
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: 取得
+        run: |
+          if [ -n "${{ inputs.only }}" ]; then
+            python scripts/fetch_tsutatsu.py --only ${{ inputs.only }}
+          else
+            python scripts/fetch_tsutatsu.py
+          fi
+      - name: raw-tsutatsu ブランチに置く
+        if: always()
+        run: |
+          cd data/raw_tsutatsu
+          git init -q -b raw-tsutatsu
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -q -m "通達原文 $(date -u +%F)"
+          git push -q --force "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}" raw-tsutatsu
