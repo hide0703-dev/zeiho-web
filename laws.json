@@ -1,0 +1,55 @@
+{
+  "_note": "収録する法令の一覧。title は e-Gov 上の正式名称と完全一致させる。key は URL とデータのフォルダ名。",
+  "groups": [
+    {"id": "shotoku", "name": "所得税", "laws": [
+      {"key": "shotoku_act", "kind": "act", "abbr": "所法", "title": "所得税法"},
+      {"key": "shotoku_co",  "kind": "co",  "abbr": "所令", "title": "所得税法施行令"},
+      {"key": "shotoku_mo",  "kind": "mo",  "abbr": "所規", "title": "所得税法施行規則"}
+    ]},
+    {"id": "houjin", "name": "法人税", "laws": [
+      {"key": "houjin_act", "kind": "act", "abbr": "法法", "title": "法人税法"},
+      {"key": "houjin_co",  "kind": "co",  "abbr": "法令", "title": "法人税法施行令"},
+      {"key": "houjin_mo",  "kind": "mo",  "abbr": "法規", "title": "法人税法施行規則"}
+    ]},
+    {"id": "chihouhoujin", "name": "地方法人税", "laws": [
+      {"key": "chihouhoujin_act", "kind": "act", "abbr": "地法法", "title": "地方法人税法"},
+      {"key": "chihouhoujin_co",  "kind": "co",  "abbr": "地法令", "title": "地方法人税法施行令"},
+      {"key": "chihouhoujin_mo",  "kind": "mo",  "abbr": "地法規", "title": "地方法人税法施行規則"}
+    ]},
+    {"id": "souzoku", "name": "相続税・贈与税", "laws": [
+      {"key": "souzoku_act", "kind": "act", "abbr": "相法", "title": "相続税法"},
+      {"key": "souzoku_co",  "kind": "co",  "abbr": "相令", "title": "相続税法施行令"},
+      {"key": "souzoku_mo",  "kind": "mo",  "abbr": "相規", "title": "相続税法施行規則"}
+    ]},
+    {"id": "shohi", "name": "消費税", "laws": [
+      {"key": "shohi_act", "kind": "act", "abbr": "消法", "title": "消費税法"},
+      {"key": "shohi_co",  "kind": "co",  "abbr": "消令", "title": "消費税法施行令"},
+      {"key": "shohi_mo",  "kind": "mo",  "abbr": "消規", "title": "消費税法施行規則"}
+    ]},
+    {"id": "sochi", "name": "租税特別措置", "laws": [
+      {"key": "sochi_act", "kind": "act", "abbr": "措法", "title": "租税特別措置法"},
+      {"key": "sochi_co",  "kind": "co",  "abbr": "措令", "title": "租税特別措置法施行令"},
+      {"key": "sochi_mo",  "kind": "mo",  "abbr": "措規", "title": "租税特別措置法施行規則"}
+    ]},
+    {"id": "tsusoku", "name": "国税通則", "laws": [
+      {"key": "tsusoku_act", "kind": "act", "abbr": "通法", "title": "国税通則法"},
+      {"key": "tsusoku_co",  "kind": "co",  "abbr": "通令", "title": "国税通則法施行令"},
+      {"key": "tsusoku_mo",  "kind": "mo",  "abbr": "通規", "title": "国税通則法施行規則"}
+    ]},
+    {"id": "choshu", "name": "国税徴収", "laws": [
+      {"key": "choshu_act", "kind": "act", "abbr": "徴法", "title": "国税徴収法"},
+      {"key": "choshu_co",  "kind": "co",  "abbr": "徴令", "title": "国税徴収法施行令"},
+      {"key": "choshu_mo",  "kind": "mo",  "abbr": "徴規", "title": "国税徴収法施行規則"}
+    ]},
+    {"id": "inshi", "name": "印紙税", "laws": [
+      {"key": "inshi_act", "kind": "act", "abbr": "印法", "title": "印紙税法"},
+      {"key": "inshi_co",  "kind": "co",  "abbr": "印令", "title": "印紙税法施行令"},
+      {"key": "inshi_mo",  "kind": "mo",  "abbr": "印規", "title": "印紙税法施行規則"}
+    ]},
+    {"id": "chihou", "name": "地方税", "laws": [
+      {"key": "chihou_act", "kind": "act", "abbr": "地法", "title": "地方税法"},
+      {"key": "chihou_co",  "kind": "co",  "abbr": "地令", "title": "地方税法施行令"},
+      {"key": "chihou_mo",  "kind": "mo",  "abbr": "地規", "title": "地方税法施行規則"}
+    ]}
+  ]
+}

@@ -1,0 +1,33 @@
+name: 原文取得（開発用）
+
+# e-Gov から原文XMLを取り、成果物（Artifact）として保存するだけ。サイトには触らない。
+on:
+  workflow_dispatch:
+    inputs:
+      only:
+        description: '取得する法令の key（空白区切り。空なら全部）'
+        type: string
+        default: ''
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: 取得
+        run: |
+          if [ -n "${{ inputs.only }}" ]; then
+            python scripts/fetch_laws.py --only ${{ inputs.only }}
+          else
+            python scripts/fetch_laws.py
+          fi
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: raw-laws
+          path: data/raw/
+          retention-days: 14
