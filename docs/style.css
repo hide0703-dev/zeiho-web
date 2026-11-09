@@ -166,3 +166,27 @@ th { background: var(--panel); }
   .bar, .toc, .foot, .nav-arts, .jump-msg { display: none !important; }
   .hashira { position: static; }
 }
+
+/* 通達 */
+.tsu .tp { margin: 0 0 .3em; scroll-margin-top: 110px; }
+.tsu .tp.lv1 { padding-left: 1em; text-indent: -1em; }
+.tsu .tp.lv2 { padding-left: 2em; text-indent: -1em; }
+.tsu .tp.lv3 { padding-left: 3em; text-indent: -1em; }
+.tsu .tp.lv4 { padding-left: 4em; text-indent: -1em; }
+.tsu .tp.lv5, .tsu .tp.lv6 { padding-left: 5em; text-indent: -1em; }
+.tsu .tp.ctr { text-align: center; text-indent: 0; padding-left: 0; }
+.tsu .tp.item { margin-top: .2em; }
+.tsu .tp.target { background: var(--mark); border-radius: 4px; }
+.tsu .tsu-h { font-weight: 700; margin: 1.1em 0 .2em; color: var(--mute); }
+.tsu .tsu-h.h2 { color: var(--mute); font-weight: 600; }
+.tsu .tsu-h.h3, .tsu .tsu-h.h4 { color: var(--ink); }
+.tsu .ino { margin-right: .4em; }
+.tsu img.fig { max-width: 100%; height: auto; vertical-align: middle; }
+.oldver { margin: 12px 0 0; padding: 8px 12px; border-left: 3px solid var(--k3); background: var(--panel); font-size: 13.5px; }
+.toc .tsu-toc { padding-left: 0; }
+.toc .tsu-toc li.tg { font-weight: 600; padding-top: 8px; padding-bottom: 2px; }
+.book.tsu b { color: var(--k2); }
+.tsu .tsu-h { scroll-margin-top: 110px; }
+@media (max-width: 900px) {
+  .jo, .para, .tsu .tp, .tsu .tsu-h { scroll-margin-top: 150px; }
+}

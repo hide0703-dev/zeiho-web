@@ -1,6 +1,7 @@
 name: 改正チェック（確認後公開）
 
-# 毎月2日 05:00（日本時間）と、改正の多い3〜4月・9〜10月は毎週月曜 05:00 にも e-Gov を確認する。
+# 毎月2日 05:00（日本時間）と、改正の多い3〜4月・9〜10月は毎週月曜 05:00 にも、
+# 法令は e-Gov、通達は国税庁ホームページを確認する。
 # 改正があれば取り直し → 変換 → 原文との全文照合 を行い、合格したら
 # 「確認待ち」のプルリクエストを立てる。マージした時点でサイトに反映される（main に直接は書かない）。
 # 手動でも実行できる（Actions → 改正チェック（確認後公開）→ Run workflow）。
@@ -22,7 +23,7 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 40
+    timeout-minutes: 90
     permissions:
       contents: write
       pull-requests: write
@@ -53,11 +54,22 @@ jobs:
         if: steps.check.outputs.changed == 'true'
         run: python scripts/verify_laws.py --only ${{ steps.check.outputs.keys }} | tee -a check.txt
 
+      # 通達：全ページを取り直して変換・照合し、本文が変わった通達だけを残す
+      - name: 通達を取り直して変更を調べる
+        id: tsu
+        run: |
+          python scripts/fetch_tsutatsu.py
+          python scripts/build_tsutatsu.py | tee -a check.txt
+          python scripts/check_tsutatsu.py
+          {
+            echo '## 通達の更新チェック'; echo; echo '```'; tail -n 20 check.txt; echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
       - name: 確認待ちのプルリクエストを立てる
-        if: steps.check.outputs.changed == 'true' && !inputs.dry_run
+        if: (steps.check.outputs.changed == 'true' || steps.tsu.outputs.tsu_changed == 'true') && !inputs.dry_run
         env:
           GH_TOKEN: ${{ github.token }}
-          SUMMARY: ${{ steps.check.outputs.summary }}
+          SUMMARY: ${{ steps.check.outputs.summary }}${{ steps.check.outputs.summary && steps.tsu.outputs.tsu_summary && '・' || '' }}${{ steps.tsu.outputs.tsu_summary }}
           OWNER: ${{ github.repository_owner }}
         run: |
           set -euo pipefail
@@ -69,11 +81,11 @@ jobs:
           git commit -q -m "法令データ更新（確認待ち）：${SUMMARY}" -m "$(cat check.txt)"
           git push -q --force origin data-update
           {
-            echo "## 法令の改正を検知しました"
+            echo "## 法令・通達の改正を検知しました"
             echo
             echo "**このプルリクエストをマージすると、サイトに反映されます。** マージするまで、公開中のサイトは前回の内容のままです。"
             echo
-            echo "- 原文（e-Gov）との全文照合：合格"
+            echo "- 原文（法令は e-Gov、通達は国税庁ホームページ）との全文照合：合格"
             echo "- 実行ログ：${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
             echo
             echo "### 確認のしかた"
@@ -84,9 +96,9 @@ jobs:
             echo '```'; cat check.txt; echo '```'
           } > pr_body.md
           if gh pr view data-update --json state -q .state 2>/dev/null | grep -q OPEN; then
-            gh pr edit data-update --title "【確認待ち】法令データ更新：${SUMMARY:0:120}" --body-file pr_body.md
+            gh pr edit data-update --title "【確認待ち】データ更新：${SUMMARY:0:120}" --body-file pr_body.md
           else
-            gh pr create --base main --head data-update --title "【確認待ち】法令データ更新：${SUMMARY:0:120}" \
+            gh pr create --base main --head data-update --title "【確認待ち】データ更新：${SUMMARY:0:120}" \
               --body-file pr_body.md --assignee "$OWNER"
           fi
 

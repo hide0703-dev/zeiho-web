@@ -57,6 +57,7 @@
     return r.json();
   }
   const law = key => INDEX.laws.find(l => l.key === key);
+  const tsu = key => (INDEX.tsutatsu || []).find(t => t.key === key);
   async function getToc(key) {
     if (!tocCache.has(key)) {
       const t = await getJSON(`data/${key}/toc.json`);
@@ -88,6 +89,21 @@
 
   // ── 文字の装飾：括弧の深さで色分け、ただし書、定義語 ──────
   const esc = s => s.replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+  const FIG = /［図｜([^｜］]*)｜([^］]*)］/g;
+  function decoFig(text) {
+    if (!text || text.indexOf('［図｜') < 0) return deco(text);
+    let out = '', last = 0, m;
+    FIG.lastIndex = 0;
+    while ((m = FIG.exec(text))) {
+      out += deco(text.slice(last, m.index));
+      const src = m[1];
+      out += /^https:\/\/www\.nta\.go\.jp\//.test(src)
+        ? `<img class="fig" src="${esc(src)}" alt="${esc(m[2])}" loading="lazy">`
+        : esc(m[2]);
+      last = FIG.lastIndex;
+    }
+    return out + deco(text.slice(last));
+  }
   function deco(text) {
     if (!text) return '';
     let out = '', depth = 0;
@@ -172,15 +188,16 @@
     const groups = INDEX.groups.map(g => {
       const books = INDEX.laws.filter(l => l.group === g.id).map(l =>
         `<a class="book" href="#/${l.key}"><b>${KIND_LABEL[l.kind]}</b><small>${esc(l.abbr)}</small></a>`).join('');
-      return `<li><span class="gname">${esc(g.name)}</span><span class="books">${books}<span class="book off" title="準備中です"><b>通達</b><small>準備中</small></span></span></li>`;
+      return `<li><span class="gname">${esc(g.name)}</span><span class="books">${books}${(INDEX.tsutatsu || []).filter(t => t.group === g.id).map(t =>
+        `<a class="book tsu" href="#/${t.key}"><b>通達</b><small>${esc(t.abbr)}</small></a>`).join('')}</span></li>`;
     }).join('');
     main.innerHTML = `<div class="home">
       <h1>税務六法</h1>
-      <p class="lead">国税・地方税の法律・施行令・施行規則を、e-Gov法令検索の原文から表示します。</p>
+      <p class="lead">国税・地方税の法律・施行令・施行規則を e-Gov法令検索の原文から、法令解釈通達を国税庁ホームページの原文から表示します。</p>
       <ul class="shelf">${groups}</ul>
       <div class="howto">
         <h2>条文へ一発で移動する</h2>
-        <ul><li>上の入力欄に「法法22」「所令7の2」「措法41の5③」「消法30-7」のように入れて「直行」。</li>
+        <ul><li>上の入力欄に「法法22」「所令7の2」「措法41の5③」「法基通9-2-9」「消基通13-2-1」「措通31の3-11」「徴基通47-1」のように入れて「直行」。</li>
         <li>略称は 所法・所令・所規、法法・法令・法規、相法、消法、措法、通法、徴法、印法、地法 など。正式名称（法人税法施行令 22）でも移動できます。</li></ul>
         <h2>読みやすく表示する</h2>
         <ul><li>「色分け」で括弧の深さごとに色を変えます。「薄字」で括弧書きを薄くして、条文の骨格だけを読めます。</li>
@@ -275,6 +292,80 @@
     main.innerHTML = `<div class="page"><p class="loading">${esc(text)}<br><a href="${key ? '#/' + key : '#/'}">${key ? '目次から探す' : 'トップへ戻る'}</a></p></div>`;
   }
 
+  // ── 通達 ───────────────────────────────────────────────
+  const tsuTocCache = new Map();
+  async function getTsuToc(key) {
+    if (!tsuTocCache.has(key)) tsuTocCache.set(key, getJSON(`data/${key}/toc.json`));
+    return tsuTocCache.get(key);
+  }
+  function renderTsuToc(key, toc, curPage) {
+    const T = tsu(key);
+    const pages = new Map(toc.pages.map(p => [p.n, p]));
+    const sibs = INDEX.laws.filter(l => l.group === T.group).map(l => `<a href="#/${l.key}">${KIND_LABEL[l.kind]}</a>`).join('') +
+      INDEX.tsutatsu.filter(t => t.group === T.group).map(t => `<a href="#/${t.key}"${t.key === key ? ' aria-current="page"' : ''}>${esc(t.abbr)}</a>`).join('');
+    const rows = toc.toc.map(e => {
+      const pad = `style="padding-left:${Math.max(0, (e.d || 0) - 1) * 12 + 4}px"`;
+      if (e.g) return `<li class="tg" ${pad}>${esc(e.g)}</li>`;
+      const p = pages.get(e.n);
+      const cur = e.n === curPage ? ' aria-current="true"' : '';
+      return `<li ${pad}><a class="art${p && p.old ? ' del' : ''}" href="#/${key}/p${e.n}"${cur}>${esc(e.t)}${p && p.old ? ' <span class="cap">（旧）</span>' : ''}</a></li>`;
+    }).join('');
+    tocEl.innerHTML = `<p class="lawhead">${esc(T.title)}</p>
+      <p class="lawmeta">国税庁ホームページから取得（${esc((toc.fetched_at || '').slice(0, 10))}）</p>
+      <p class="kinds">${sibs}</p><ul class="tsu-toc">${rows}</ul>`;
+    tocEl.hidden = false;
+    tocBtn.hidden = false;
+    const cur = tocEl.querySelector('[aria-current="true"]');
+    if (cur && window.innerWidth > 900) cur.scrollIntoView({ block: 'center' });
+  }
+  function blockHTML(b) {
+    if (b.h) return b.h === 1 ? '' : `<p class="tsu-h h${b.h}">${decoFig(b.t)}</p>`;
+    if (b.table) {
+      const rows = b.table.map(r => `<tr>${r.map(c => {
+        const tag = c.h ? 'th' : 'td';
+        return `<${tag}${c.r ? ` rowspan="${c.r}"` : ''}${c.c ? ` colspan="${c.c}"` : ''}>${decoFig(c.t)}</${tag}>`;
+      }).join('')}</tr>`).join('');
+      return `${b.cap ? `<p class="note">${esc(b.cap)}</p>` : ''}<div class="tbl-wrap"><table><tbody>${rows}</tbody></table></div>`;
+    }
+    const lv = Math.min(b.lv || 0, 6);
+    let body = decoFig(b.p).replace(/\n/g, '<br>');
+    if (b.id) {
+      const m = b.p.match(/^\S+/);
+      if (m) body = `<a class="ano" href="#/${CUR_TSU}/${encodeURIComponent(b.id)}">${esc(m[0])}</a>` + decoFig(b.p.slice(m[0].length)).replace(/\n/g, '<br>');
+    }
+    return `<p class="tp lv${lv}${b.ctr ? ' ctr' : ''}${b.id ? ' item' : ''}"${b.id ? ` id="i-${esc(b.id)}"` : ''}>${b.li ? `<span class="ino">(${b.li})</span>` : ''}${body}</p>`;
+  }
+  let CUR_TSU = '';
+  async function tsuView(key, arg) {
+    const T = tsu(key);
+    const toc = await getTsuToc(key);
+    let n, itemId = null;
+    if (!arg) n = (toc.pages.find(p => p.items.length) || toc.pages[0]).n;
+    else if (/^p\d+$/.test(arg)) n = +arg.slice(1);
+    else if (toc.where[arg] !== undefined) { n = toc.where[arg]; itemId = arg; }
+    else return notFound(`${T.abbr}に「${arg}」は見つかりません。`, null, null);
+    const page = await getJSON(`data/${key}/t${n}.json`);
+    CUR_TSU = key;
+    renderTsuToc(key, toc, n);
+    document.title = `${T.abbr}${itemId ? itemId : ''}｜税務六法Web`;
+    const idx = toc.pages.findIndex(p => p.n === n);
+    const prev = toc.pages[idx - 1], next = toc.pages[idx + 1];
+    main.innerHTML = `<div class="page">${hashira({ title: T.title }, [page.title || ''].filter(Boolean))}
+      ${page.old ? `<p class="oldver">この節は改正前（${esc(page.old.slice(0, 4))}年${+page.old.slice(4, 6)}月${+page.old.slice(6, 8)}日以前など）の取扱いです。現行の取扱いは目次の該当箇所をご覧ください。</p>` : ''}
+      <div class="law-text tsu">${page.blocks.map(blockHTML).join('')}</div>
+      <nav class="nav-arts" aria-label="前後">
+        ${prev ? `<a href="#/${key}/p${prev.n}">前へ（${esc(prev.t)}）</a>` : '<span></span>'}
+        ${next ? `<a href="#/${key}/p${next.n}">次へ（${esc(next.t)}）</a>` : '<span></span>'}
+      </nav>
+      <p class="src">${esc(T.title)}。出典：国税庁ホームページ 法令解釈通達（${esc((toc.fetched_at || '').slice(0, 10))} 取得）。<a href="${esc(page.url)}" target="_blank" rel="noopener">国税庁ホームページで原文を開く</a></p></div>`;
+    const el = itemId ? document.getElementById('i-' + itemId) : null;
+    if (el) {
+      el.classList.add('target');
+      const cap = el.previousElementSibling && el.previousElementSibling.classList.contains('tsu-h') ? el.previousElementSibling : el;
+      cap.scrollIntoView({ block: 'start' });
+    } else window.scrollTo(0, 0);
+  }
+
   // ── 直行：「法法22の2③」などを解釈する ───────────────────
   const KANJI = { '〇': 0, '一': 1, '二': 2, '三': 3, '四': 4, '五': 5, '六': 6, '七': 7, '八': 8, '九': 9 };
   function kanjiToNum(s) {
@@ -300,26 +391,55 @@
     s = s.replace(/[〇一二三四五六七八九十百千]+/g, m => String(kanjiToNum(m)));
     const names = [];
     INDEX.laws.forEach(l => { names.push([l.abbr, l.key]); names.push([l.title, l.key]); });
+    (INDEX.tsutatsu || []).forEach(t => { names.push([t.abbr, t.key]); names.push([t.title, t.key]); });
+    names.push(['所得税基本通達', 'shotoku_kt'], ['法人税基本通達', 'houjin_kt'], ['消費税法基本通達', 'shohi_kt'], ['消基通', 'shohi_kt']);
     names.sort((a, b) => b[0].length - a[0].length);
     const hit = names.find(([n]) => s.startsWith(n));
     if (!hit) {
-      if (/基通|通達|措通|評基/.test(s)) return { error: '通達は準備中です。法律・施行令・規則は「法法22」のように入力してください。' };
       return { error: `「${raw}」の法令名が分かりません。例：法法22、所令7の2、措法41の5③` };
     }
-    const rest = s.slice(hit[0].length).replace(/^第/, '');
+    const rest0 = s.slice(hit[0].length);
+    if (tsu(hit[1])) {
+      const item = rest0.replace(/[‐‑‒–—―−ーｰ－]/g, '-').replace(/[〜～]/g, '~').replace(/^第(\d+(?:の\d+)?)条$/, '$1').replace(/関係/, '').replace(/^-/, '');
+      return { key: hit[1], tsu: true, item };
+    }
+    const rest = rest0.replace(/^第/, '');
     if (!rest) return { key: hit[1] };
     const m = rest.match(/^(\d+)条?((?:の\d+)*)条?(?:(?:項|-|第)(\d+)項?|(\d+)項)?(?:(\d+)号)?$/);
     if (!m) return { error: `「${rest}」の条番号が読めません。例：22、22の2、22③、22-3` };
     const id = [m[1], ...m[2].split('の').filter(Boolean)].join('_');
     return { key: hit[1], id, para: m[3] || m[4] || null };
   }
-  $('#jump').addEventListener('submit', e => {
+  // 措通は4本に分かれているので、番号でまとめて探す
+  const TSU_FAMILY = { sochi_kt: ['sochi_kt', 'sochi_jt', 'sochi_kabu', 'sochi_gensen'] };
+  async function findItem(key, item) {
+    const keys = TSU_FAMILY[key] || [key];
+    for (const k of keys) {
+      const t = await getTsuToc(k);
+      if (t.where[item] !== undefined) return { key: k, id: item };
+    }
+    for (const k of keys) {  // 「9-2」のように途中までなら、その最初の項目へ
+      const t = await getTsuToc(k);
+      const hit = Object.keys(t.where).find(i => i.startsWith(item + '-'));
+      if (hit) return { key: k, id: hit };
+    }
+    return null;
+  }
+  $('#jump').addEventListener('submit', async e => {
     e.preventDefault();
     const v = $('#q').value;
     if (!v.trim()) return;
     const r = parseJump(v);
     msg.textContent = r.error || '';
     if (r.error) return;
+    if (r.tsu) {
+      if (!r.item) { location.hash = `#/${r.key}`; return; }
+      const f = await findItem(r.key, r.item);
+      if (!f) { msg.textContent = `${tsu(r.key).abbr}に「${r.item}」は見つかりません。目次から探してください。`; if (location.hash !== `#/${r.key}`) { keepMsg = true; location.hash = `#/${r.key}`; } return; }
+      location.hash = `#/${f.key}/${encodeURIComponent(f.id)}`;
+      $('#q').blur();
+      return;
+    }
     location.hash = `#/${r.key}` + (r.id ? `/${encodeURIComponent(r.id)}` : '') + (r.para ? `/${r.para}` : '');
     $('#q').blur();
   });
@@ -331,13 +451,15 @@
       if (!parts.length) homeView();
       else if (parts[1] === 's') await supplView(parts[0], parts[2]);
       else if (parts[1] === 'x') await appdxView(parts[0], parts[2]);
+      else if (tsu(parts[0])) await tsuView(parts[0], parts[1]);
       else await lawView(parts[0], parts[1], parts[2]);
       if (!parts[1] || parts[1] === 's' || parts[1] === 'x') window.scrollTo(0, 0);
     } catch (err) {
       main.innerHTML = `<div class="page"><p class="loading">表示できませんでした：${esc(err.message)}<br>通信状態を確かめて、もう一度開いてください。</p></div>`;
     }
   }
-  window.addEventListener('hashchange', () => { msg.textContent = ''; route(); });
+  let keepMsg = false;
+  window.addEventListener('hashchange', () => { if (!keepMsg) msg.textContent = ''; keepMsg = false; route(); });
 
   (async () => {
     try {

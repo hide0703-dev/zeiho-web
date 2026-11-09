@@ -359,12 +359,13 @@ def main():
                 print(f"[失敗] {law['key']}: {e}", file=sys.stderr)
                 failed.append(law["key"])
 
-    index = {
+    index = json.loads(idx_path.read_text(encoding="utf-8")) if idx_path.exists() else {}
+    index.update({  # 通達の一覧など、ほかの項目はそのまま残す
         "built_at": datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds"),
         "source": "e-Gov法令API（デジタル庁）",
         "groups": [{"id": g["id"], "name": g["name"]} for g in cfg["groups"]],
         "laws": laws,
-    }
+    })
     dump(idx_path, index)
     if failed:
         sys.exit(1)
