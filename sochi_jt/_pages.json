@@ -1,0 +1,333 @@
+{
+ "key": "sochi_jt",
+ "title": "租税特別措置法関係通達（山林所得・譲渡所得関係）",
+ "entry": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/710826/sanrin/sanjyou/01.htm",
+ "scope": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/710826/sanrin/sanjyou/",
+ "fetched_at": "2026-11-09T04:07:08Z",
+ "pages": [
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/710826/sanrin/sanjyou/01.htm",
+   "path": "01.htm",
+   "sha256": "6c21135ebd777ea9727eef30ea51c582ac5d041ccb2d355e658635e1a32196a8",
+   "bytes": 76992
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/710826/sanrin/sanjyou/02.htm",
+   "path": "02.htm",
+   "sha256": "390681d002bf2763a0752805cf6ea9ded22a7bd5c688374c77fd8e2eeb55df28",
+   "bytes": 17008
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/710826/sanrin/sanjyou/soti30/01.htm",
+   "path": "soti30/01.htm",
+   "sha256": "54eeab0b3c72d71ace08baadca75887ae82063cc10964ade07d078506b2fae94",
+   "bytes": 6982
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/710826/sanrin/sanjyou/soti30/02.htm",
+   "path": "soti30/02.htm",
+   "sha256": "6eab874a3cfac899951458e4eba58bc97ee47cece256ff9785204c6790308a55",
+   "bytes": 7496
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/710826/sanrin/sanjyou/soti31/01.htm",
+   "path": "soti31/01.htm",
+   "sha256": "9e77b8e096de55064cc2b17317aedb56113b249de62a3e054bd5831867f9cd24",
+   "bytes": 12500
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/710826/sanrin/sanjyou/soti31/02.htm",
+   "path": "soti31/02.htm",
+   "sha256": "83ca984d922b480df73c6e8170e5001be61b22bba946384ed4fce94ae1190a0f",
+   "bytes": 13355
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/710826/sanrin/sanjyou/soti31/03.htm",
+   "path": "soti31/03.htm",
+   "sha256": "1a107ad87c3a253332797a0ed9d723126e015c8e31efd82a88962d29413bbc36",
+   "bytes": 14967
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/710826/sanrin/sanjyou/soti31/04.htm",
+   "path": "soti31/04.htm",
+   "sha256": "2555087b3556f9c93519c99ddcec94053fcead1663f9cf2c974b82fc6c5fe34c",
+   "bytes": 12210
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/710826/sanrin/sanjyou/soti31/05.htm",
+   "path": "soti31/05.htm",
+   "sha256": "d104be886bec9461661af13cb41ae55438be8314d2dc97ffc938cbe7cf842b75",
+   "bytes": 17044
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/710826/sanrin/sanjyou/soti31/06.htm",
+   "path": "soti31/06.htm",
+   "sha256": "a07672b4ebe6043d69cfae0c99e29446597ec453dc601cc1e59b2ca3d2049ed3",
+   "bytes": 18140
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/710826/sanrin/sanjyou/soti31/07.htm",
+   "path": "soti31/07.htm",
+   "sha256": "e0dd905a0ab078ac9d891752f36163f8755efd5792ccd25c82358763ed3e5ecd",
+   "bytes": 15033
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/710826/sanrin/sanjyou/soti31/08.htm",
+   "path": "soti31/08.htm",
+   "sha256": "ade0c95745adf291bf3427be5b1f37d2969d0d324887b77fe9afa10803f75c63",
+   "bytes": 7790
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/710826/sanrin/sanjyou/soti32/01.htm",
+   "path": "soti32/01.htm",
+   "sha256": "49e05b28a2545ab081728547e237b2c57cda667aa87773c7c5a8f90196b54178",
+   "bytes": 4944
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/710826/sanrin/sanjyou/soti32/02.htm",
+   "path": "soti32/02.htm",
+   "sha256": "2b7e1e1d0bed797abb880866c9f5fa6d8bf56769a152220c65d2b76059963a30",
+   "bytes": 9470
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/710826/sanrin/sanjyou/soti33/01.htm",
+   "path": "soti33/01.htm",
+   "sha256": "e4bea44aa6fc5424aca43c7be227427fb4901f53f4ff1f445c4182a4f15486e7",
+   "bytes": 17599
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/710826/sanrin/sanjyou/soti33/02.htm",
+   "path": "soti33/02.htm",
+   "sha256": "80495d8dc003f4923521a164fc66d991cbd16cf3cf35b127ef825951e41ae2a6",
+   "bytes": 12266
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/710826/sanrin/sanjyou/soti33/03.htm",
+   "path": "soti33/03.htm",
+   "sha256": "b573b7c4b97ff5e11f0f8b38cd3c198047956fca6b3fa23cf3f1b39591e06b0e",
+   "bytes": 13645
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/710826/sanrin/sanjyou/soti33/04.htm",
+   "path": "soti33/04.htm",
+   "sha256": "7f3e35b9560efa073e44a11e11b33abe9b07292dafc18e609f8d556f2690b776",
+   "bytes": 14200
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/710826/sanrin/sanjyou/soti33/05.htm",
+   "path": "soti33/05.htm",
+   "sha256": "cbbadf1a9d9f319007abc95171fd2fb01e87c11149b862d447b79de2bb4d0873",
+   "bytes": 16865
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/710826/sanrin/sanjyou/soti33/08.htm",
+   "path": "soti33/08.htm",
+   "sha256": "b77cd1eb6cd5981fb6226b362132a1b590d7bad7becf6f1b52e9d5e5be61c1da",
+   "bytes": 6710
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/710826/sanrin/sanjyou/soti33/06.htm",
+   "path": "soti33/06.htm",
+   "sha256": "55a8c037009861bd964f25a80b95ef89473714e614f3647dcee83b73b88dab59",
+   "bytes": 16230
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/710826/sanrin/sanjyou/soti33/07.htm",
+   "path": "soti33/07.htm",
+   "sha256": "0d5c3c0c29cc71a68357cb40dcdf05a65c4d51e9a57d6392f74dc6e530de1e1c",
+   "bytes": 5465
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/710826/sanrin/sanjyou/soti34/01.htm",
+   "path": "soti34/01.htm",
+   "sha256": "12a6cb81f93f06423fa6ff8a9b5426d7ab410cb9386e03a20e98eb874b3f1ed3",
+   "bytes": 8088
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/710826/sanrin/sanjyou/soti34/02.htm",
+   "path": "soti34/02.htm",
+   "sha256": "ff6e4c3ff4cb88b6f454bdac9deaa444da509c3618c9ad1a3084c54e0201595b",
+   "bytes": 12083
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/710826/sanrin/sanjyou/soti34/03.htm",
+   "path": "soti34/03.htm",
+   "sha256": "0c42b6648332b3a214700ff84313b6c2a6835a0e0ae744ddf5588d59db09debf",
+   "bytes": 8591
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/710826/sanrin/sanjyou/soti34/04.htm",
+   "path": "soti34/04.htm",
+   "sha256": "4c13a0334864d8b7fabdd0b71068b64b54697579180cbc882771ca9a30707611",
+   "bytes": 8352
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/710826/sanrin/sanjyou/soti34/05.htm",
+   "path": "soti34/05.htm",
+   "sha256": "fcbb12caf76a31b1bfb5004bce7629081f7eeb8c78182e3c70d2d191c6e4e053",
+   "bytes": 4064
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/710826/sanrin/sanjyou/soti35/01.htm",
+   "path": "soti35/01.htm",
+   "sha256": "04b9893da75550a566eba0ea84f3ec9c0f439f746064df970b5eb7b1840d363b",
+   "bytes": 49145
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/710826/sanrin/sanjyou/soti35/02.htm",
+   "path": "soti35/02.htm",
+   "sha256": "c25430757f29c60b13ae1bb4ddd5c6a75e95d6fb68023ae7a2e2123bd62ae1fa",
+   "bytes": 10870
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/710826/sanrin/sanjyou/soti35/03.htm",
+   "path": "soti35/03.htm",
+   "sha256": "85ff557a41a30b70ae56da9a89652e98954bcd71ba60102522d8def85db19293",
+   "bytes": 6856
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/710826/sanrin/sanjyou/soti36/01.htm",
+   "path": "soti36/01.htm",
+   "sha256": "071a32c73e34231a2676b41059491ca067a81a63d2b508c51f5bcb3d46a129b4",
+   "bytes": 8378
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/710826/sanrin/sanjyou/soti36/06.htm",
+   "path": "soti36/06.htm",
+   "sha256": "38bd82984f7c922be2efa77e0b32e7ca1325fa90bd012108468e7286bbd93f32",
+   "bytes": 32942
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/710826/sanrin/sanjyou/soti36/03.htm",
+   "path": "soti36/03.htm",
+   "sha256": "fe8c4298e30653d47d16a3d4d8cf27d416373eae7dee8a045dda6768ce8f7840",
+   "bytes": 6534
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/710826/sanrin/sanjyou/soti37/01.htm",
+   "path": "soti37/01.htm",
+   "sha256": "eeabf7b43df6853de0ff07bdcc56f4214cc73075297fd724175de8744e240575",
+   "bytes": 16424
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/710826/sanrin/sanjyou/soti37/02.htm",
+   "path": "soti37/02.htm",
+   "sha256": "b2f301e440c38a102eb3cd86be7216b0298b816cfa0589b3aa70cd135543fbb7",
+   "bytes": 13269
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/710826/sanrin/sanjyou/soti37/03.htm",
+   "path": "soti37/03.htm",
+   "sha256": "ceed8cc86905c1500c6284ed87136f523b9d2b05548cdb41c1cfa3948019462e",
+   "bytes": 5444
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/710826/sanrin/sanjyou/soti37/04.htm",
+   "path": "soti37/04.htm",
+   "sha256": "a90ecd317eb0e9c743926e9a51a33e575f44c1fe1afc897ec4a7a0369252040a",
+   "bytes": 20272
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/710826/sanrin/sanjyou/soti37/05.htm",
+   "path": "soti37/05.htm",
+   "sha256": "41782eac216cf5814d0cfe6854272e855dc5f98a32b55ce844f0f9d6dcc010b2",
+   "bytes": 13470
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/710826/sanrin/sanjyou/soti37/06.htm",
+   "path": "soti37/06.htm",
+   "sha256": "8af1633ad9a020297f4fb0108643a48f1039045044202d60b2d889581ffbb084",
+   "bytes": 4630
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/710826/sanrin/sanjyou/soti37/07.htm",
+   "path": "soti37/07.htm",
+   "sha256": "4ed8748d450af6c16c40636b3b5d3011856608d627f16486523b46e5fbb03f75",
+   "bytes": 11173
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/710826/sanrin/sanjyou/soti37/08.htm",
+   "path": "soti37/08.htm",
+   "sha256": "f8d97475b5c0f38bc61a2448218d0c77dc91a3916a3d1ea2cad251697f91a45d",
+   "bytes": 9735
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/710826/sanrin/sanjyou/soti37/09.htm",
+   "path": "soti37/09.htm",
+   "sha256": "183e30cfe0888955e7eb3af5f53ea1672f4d79eeb3b374bb35e5b40ad2ee1e7b",
+   "bytes": 7074
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/710826/sanrin/sanjyou/soti37/10.htm",
+   "path": "soti37/10.htm",
+   "sha256": "d801d1b9f1ad9594163e5f3aea1a3f95630db89e004b6a12e891efa598e950a7",
+   "bytes": 4883
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/710826/sanrin/sanjyou/soti37/11.htm",
+   "path": "soti37/11.htm",
+   "sha256": "951a12ad37c8cb919753694329669d1050971b6de5354d4371a20182a61fb5b3",
+   "bytes": 13145
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/710826/sanrin/sanjyou/soti37/12.htm",
+   "path": "soti37/12.htm",
+   "sha256": "081dc49073a9c3e62342f21d9ea70cdd93fab72b9cd71f842f759e1edf8611e3",
+   "bytes": 8000
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/710826/sanrin/sanjyou/soti37/16.htm",
+   "path": "soti37/16.htm",
+   "sha256": "3a37aefe7e75c786e34c9d18bd87acc4019e8fe16180fb998bfbc7ca2893ff91",
+   "bytes": 4706
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/710826/sanrin/sanjyou/soti39/01.htm",
+   "path": "soti39/01.htm",
+   "sha256": "6e2f30ced64937b0b66075e48150378b02d222bc3b51b8ae67bcccc75b52fb1a",
+   "bytes": 7053
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/710826/sanrin/sanjyou/soti39/02.htm",
+   "path": "soti39/02.htm",
+   "sha256": "81ff1fe82c1a5f0135f6cee32124d686e2ab59baf6f4f9a29baf5b4f1d07ee87",
+   "bytes": 7691
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/710826/sanrin/sanjyou/soti39/03.htm",
+   "path": "soti39/03.htm",
+   "sha256": "70837178e0c19c8b85808b02513ada60ff564d7bae783e6691e3f5fd37cbdf26",
+   "bytes": 15430
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/710826/sanrin/sanjyou/soti40/01.htm",
+   "path": "soti40/01.htm",
+   "sha256": "0724a6063e57dd98c83df349e1e228ff407ee77473469fb92e103d44373eea40",
+   "bytes": 13516
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/710826/sanrin/sanjyou/soti41/01.htm",
+   "path": "soti41/01.htm",
+   "sha256": "e8760ba233e3b33cac386e8c818175feccf7b4f6a7ebe21651957738c7a6ecf6",
+   "bytes": 16081
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/710826/sanrin/sanjyou/soti41/02.htm",
+   "path": "soti41/02.htm",
+   "sha256": "027217fe1860816fe1415e9a09f83209eee785305a76d8798618a140db0bc5b0",
+   "bytes": 14249
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/710826/sanrin/sanjyou/soti41/03.htm",
+   "path": "soti41/03.htm",
+   "sha256": "0b6acbd6beba96a676c39dfb0a1f654e17f3e034501b56d600027281420f255f",
+   "bytes": 12420
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/710826/sanrin/sanjyou/fusoku/01.htm",
+   "path": "fusoku/01.htm",
+   "sha256": "5a8ded060230368e1a76dfdb712c7be5115cab1669505721025d3a3d839a85c6",
+   "bytes": 21711
+  }
+ ]
+}

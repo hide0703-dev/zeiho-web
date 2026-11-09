@@ -1,0 +1,333 @@
+{
+ "key": "sochi_kt",
+ "title": "租税特別措置法関係通達（申告所得税関係）",
+ "entry": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/801226/sinkoku/01.htm",
+ "scope": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/801226/sinkoku/",
+ "fetched_at": "2026-11-09T04:06:02Z",
+ "pages": [
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/801226/sinkoku/01.htm",
+   "path": "01.htm",
+   "sha256": "fd1a8ce56f916aefdb493304544f129c2f0fc8f12de765ec26fb0ee9041f7776",
+   "bytes": 77279
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/801226/sinkoku/57/zenbun/01.htm",
+   "path": "57/zenbun/01.htm",
+   "sha256": "8e25209aa212c6783db74f0e1e18abc097db9f6407a4064d09ebd498d076bea9",
+   "bytes": 13583
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/801226/sinkoku/57/03/00.htm",
+   "path": "57/03/00.htm",
+   "sha256": "a1ae09b93a5d1f9184d9895500dfda3700d342d621a47501b1b7857387955d66",
+   "bytes": 5893
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/801226/sinkoku/57/08/04.htm",
+   "path": "57/08/04.htm",
+   "sha256": "5a2aab0dae5f2fecbac46f2d213e902527a43f70e2de97101c8682f526e74177",
+   "bytes": 4276
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/801226/sinkoku/57/08/06.htm",
+   "path": "57/08/06.htm",
+   "sha256": "26204373a4257088a10652d723ddbe7defb70f92068b518deeabdb578b379b92",
+   "bytes": 6931
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/801226/sinkoku/57/10/01.htm",
+   "path": "57/10/01.htm",
+   "sha256": "da6da49f3d6067a620787f43326aae95ca9099964bfaa0d54ab8a6eb4c7559fe",
+   "bytes": 21739
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/801226/sinkoku/57/10/00.htm",
+   "path": "57/10/00.htm",
+   "sha256": "0dbd344dd8bb059300d5b2013161fe680fb8693d97e3b2d72355f73bf6171ab8",
+   "bytes": 8780
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/801226/sinkoku/57/10/07.htm",
+   "path": "57/10/07.htm",
+   "sha256": "b8ca7e992a6e0f6b1a1826cc82d41f6d181f9637a31c982b3ca57e1dfa5212c4",
+   "bytes": 12830
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/801226/sinkoku/57/10/04_2.htm",
+   "path": "57/10/04_2.htm",
+   "sha256": "524b9aaf864fec39c347647417cce0eb5c388212014b1def48a5fd06ebf7d6aa",
+   "bytes": 9898
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/801226/sinkoku/57/10/04.htm",
+   "path": "57/10/04.htm",
+   "sha256": "d642058d0f736311aaaa3d1a3e685326aab647e74b1b01fa583d8318c6b48304",
+   "bytes": 8233
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/801226/sinkoku/57/10/05_6.htm",
+   "path": "57/10/05_6.htm",
+   "sha256": "58f092c58cb64781026ea902fd028281a2d37387ce2cdf1d6460da034472787f",
+   "bytes": 8797
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/801226/sinkoku/57/10/05_4.htm",
+   "path": "57/10/05_4.htm",
+   "sha256": "b709980a4765707f6a1223c684c13a1a2708a81df329a03a07ea95b60e846bd4",
+   "bytes": 12429
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/801226/sinkoku/57/10/08.htm",
+   "path": "57/10/08.htm",
+   "sha256": "0d497d9a08910db7ea0505f123e4915b8a982f92046f0a55ee19c8f9a915673e",
+   "bytes": 4985
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/801226/sinkoku/57/10/06.htm",
+   "path": "57/10/06.htm",
+   "sha256": "b330741a7cb997c13a890e010c24681848705cc78ed3317a3905363d2e3ef916",
+   "bytes": 8051
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/801226/sinkoku/57/11/01.htm",
+   "path": "57/11/01.htm",
+   "sha256": "d4a480df957820e45409dcbadd3f1bbcee4a6dfb3bca7c6a6ef856e44bf3931a",
+   "bytes": 7941
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/801226/sinkoku/57/11/08.htm",
+   "path": "57/11/08.htm",
+   "sha256": "635f3930c1a191fbbac22a78e98885d8800884f50799f087c81a9a86ca471850",
+   "bytes": 9564
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/801226/sinkoku/57/11/09.htm",
+   "path": "57/11/09.htm",
+   "sha256": "c4cc7b34f6ac63c30e31c632d76dcbe97c846b6705727810b630e723d635139d",
+   "bytes": 6130
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/801226/sinkoku/57/11/10.htm",
+   "path": "57/11/10.htm",
+   "sha256": "cf4e21e44436b9b0fb9c57ca2bea7fb04fa4dd570210a137dfea751e13bf3c87",
+   "bytes": 4490
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/801226/sinkoku/57/12/01.htm",
+   "path": "57/12/01.htm",
+   "sha256": "19ddb1bccd300e9b508e13e09e5bf09231c3270e8cc001a25ddefde0d4df502d",
+   "bytes": 20296
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/801226/sinkoku/57/12/02.htm",
+   "path": "57/12/02.htm",
+   "sha256": "1ece9dcfec84e5608270d8bfc30a72977228b93a25c35d89c254fe8da32dc09d",
+   "bytes": 7943
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/801226/sinkoku/57/13/03.htm",
+   "path": "57/13/03.htm",
+   "sha256": "845075487e064b2b51629bc3333cf0c2a2e15593750b5ca3d39b22e17d8b9c9f",
+   "bytes": 6245
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/801226/sinkoku/57/14/02.htm",
+   "path": "57/14/02.htm",
+   "sha256": "3aa6aa98271afff06f6a4662c8f69f05c25573dd584f11a1941f1a7d93706c5c",
+   "bytes": 6553
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/801226/sinkoku/57/20/06.htm",
+   "path": "57/20/06.htm",
+   "sha256": "8af7f864a145468bb7de3b7dc8a2c49c849cc0049afa2e90bf8328bde7f6fc22",
+   "bytes": 5302
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/801226/sinkoku/57/24/01.htm",
+   "path": "57/24/01.htm",
+   "sha256": "29869532243201188a9a91f062176971855116fb09fda351f663b670f6332e45",
+   "bytes": 6275
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/801226/sinkoku/57/25/00.htm",
+   "path": "57/25/00.htm",
+   "sha256": "13c7c06b52b1f42e342659e54c19c83e2416418b7bc63be24d39e49d91aab839",
+   "bytes": 4109
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/801226/sinkoku/57/25/01.htm",
+   "path": "57/25/01.htm",
+   "sha256": "fab8f8e21c5edece1aeebdf29e42c288c09b3f4eb44c62403cb645003c5fc843",
+   "bytes": 8606
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/801226/sinkoku/57/27/01.htm",
+   "path": "57/27/01.htm",
+   "sha256": "0942ef8b1674a02b1642ec2a28530ffcc8a1d8c4e196ae64e64d23e826b606cc",
+   "bytes": 4866
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/801226/sinkoku/57/28/01.htm",
+   "path": "57/28/01.htm",
+   "sha256": "ba0baca5c0a81c05de94edb1ff25ab49a65b02ea03d01eec097e11ef4604ef45",
+   "bytes": 5264
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/801226/sinkoku/57/28/02.htm",
+   "path": "57/28/02.htm",
+   "sha256": "4e268639627124d38472061387213e83db95b002332ff277f7d7d64731a4df2b",
+   "bytes": 8109
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/801226/sinkoku/57/28/02_2.htm",
+   "path": "57/28/02_2.htm",
+   "sha256": "0f89173df8b08ee544e047c558f56e7195d9a47f0c61436234633b9985f6734c",
+   "bytes": 4193
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/801226/sinkoku/57/28/03.htm",
+   "path": "57/28/03.htm",
+   "sha256": "7e45d21c589fbba6e5a34eeab6994f0eb1cf6bb8480dc9335539ad59717c2fa7",
+   "bytes": 5930
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/801226/sinkoku/57/28/04.htm",
+   "path": "57/28/04.htm",
+   "sha256": "c873750b7679c70e6fc244e65666907bc8ad51a9918a8a06b00d5033a48ecb46",
+   "bytes": 46517
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/801226/sinkoku/57/29/02.htm",
+   "path": "57/29/02.htm",
+   "sha256": "7f2401c14fa8ca49feb622956bf6b247876455fa400f0ad7887f93c9abd35b99",
+   "bytes": 8940
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/801226/sinkoku/57/40/01.htm",
+   "path": "57/40/01.htm",
+   "sha256": "88c7100dad0c48ef7d70f01ebe34fc025d37e49fd75bf098cfcc131dda17da62",
+   "bytes": 31588
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/801226/sinkoku/57/41/01.htm",
+   "path": "57/41/01.htm",
+   "sha256": "38a199fe4b13a237a9fc352bebd426750cbc31a989dbaee4a16fd55dc8d47eb3",
+   "bytes": 53426
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/801226/sinkoku/57/41/02.htm",
+   "path": "57/41/02.htm",
+   "sha256": "951f85d56c4056bd727a15e56d6e068ccc61ab611745d9d6fc6b6bbf8f959091",
+   "bytes": 5612
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/801226/sinkoku/57/41/03_2.htm",
+   "path": "57/41/03_2.htm",
+   "sha256": "80a95a91d225b30901c4cf6515775e697299782cbf7aa6b40f5f1cbbdf14729e",
+   "bytes": 5477
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/801226/sinkoku/57/41/03_4.htm",
+   "path": "57/41/03_4.htm",
+   "sha256": "7fb364b783bfba790b06e7f0ec22a96bdcb3c03182846c69fab1391a297f6a43",
+   "bytes": 4499
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/801226/sinkoku/57/41/04.htm",
+   "path": "57/41/04.htm",
+   "sha256": "f4321d6d9d528c5416e244a28bfac2485ccacd99deeb9c1f57200a6c894cc2e3",
+   "bytes": 7081
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/801226/sinkoku/57/41/04_2.htm",
+   "path": "57/41/04_2.htm",
+   "sha256": "003e706f4a67994ebbdd78a09c3b820adccde9910253d31136e5947d6cd8d0bb",
+   "bytes": 6585
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/801226/sinkoku/57/41/04_3.htm",
+   "path": "57/41/04_3.htm",
+   "sha256": "71437866a1120ea8039ac4ce8abce8081bcda1bd01948d4253e7d7b880907498",
+   "bytes": 5374
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/801226/sinkoku/57/41/15.htm",
+   "path": "57/41/15.htm",
+   "sha256": "59a5a7fe6b8d5abea74315fdeb200727dffe6137b7b7a84032c756aaa2f951ad",
+   "bytes": 4932
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/801226/sinkoku/57/41/15_5.htm",
+   "path": "57/41/15_5.htm",
+   "sha256": "7951ba947dc0af54089698a14ad50771c24d9d7f684df2a959738aba6b9a3795",
+   "bytes": 5260
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/801226/sinkoku/57/41/17_4.htm",
+   "path": "57/41/17_4.htm",
+   "sha256": "a719d97a32381165f9175a2f1418e9de1d3bc5ebd4363db15c46c69d268d301f",
+   "bytes": 4279
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/801226/sinkoku/57/41/17.htm",
+   "path": "57/41/17.htm",
+   "sha256": "88dd756eeb5c2fe9dc6ecfabbad6b8f2e41ecee51f51a06aeb11c70249c0bf9f",
+   "bytes": 5731
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/801226/sinkoku/57/41/17_2.htm",
+   "path": "57/41/17_2.htm",
+   "sha256": "b14649745d740f7ec760c22ffbbde0503866423bf1a06305be875e6d8d1671f2",
+   "bytes": 4683
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/801226/sinkoku/57/41/17_3.htm",
+   "path": "57/41/17_3.htm",
+   "sha256": "e3f20f8ff7b6731ebdbc26910931133ed020f02df2231dc83170050714f16f71",
+   "bytes": 4493
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/801226/sinkoku/57/41/19.htm",
+   "path": "57/41/19.htm",
+   "sha256": "ff5d4be052944d0fde3a25e63c3288308209a0f9fd29dd43ba308bd0f88ca008",
+   "bytes": 5402
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/801226/sinkoku/57/41/20.htm",
+   "path": "57/41/20.htm",
+   "sha256": "8551bd6393a8a8224f386155d22b38fe5cc88acbaf69dab4bbba0285f5f87e14",
+   "bytes": 5459
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/801226/sinkoku/57/41/18.htm",
+   "path": "57/41/18.htm",
+   "sha256": "2db920c4074635a70c6241338e054e9e34d21065eb807a04d9ff270b7a93be50",
+   "bytes": 4277
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/801226/sinkoku/57/41/19_3.htm",
+   "path": "57/41/19_3.htm",
+   "sha256": "721e8b1faad1687c268432e773e61e8e89de6ccd4bd5b134202b36624b2749f7",
+   "bytes": 8533
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/801226/sinkoku/57/41/19_4.htm",
+   "path": "57/41/19_4.htm",
+   "sha256": "7984e251efac938b72a37c809ab6f495af540f7922213be4055829db2a1a4735",
+   "bytes": 8203
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/801226/sinkoku/57/41/19_5.htm",
+   "path": "57/41/19_5.htm",
+   "sha256": "e872ec694d2fabe0d76e0b86a3a574a031cc8ae5f0adb14557e1bd25e46a8518",
+   "bytes": 5243
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/801226/sinkoku/57/fusoku/01.htm",
+   "path": "57/fusoku/01.htm",
+   "sha256": "4293f5ce9c18ed770366d39b045a35e32e6bffedbe0d356398ce1ed5e52cd903",
+   "bytes": 40060
+  }
+ ]
+}

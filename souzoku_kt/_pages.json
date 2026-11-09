@@ -1,0 +1,225 @@
+{
+ "key": "souzoku_kt",
+ "title": "相続税法基本通達",
+ "entry": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/01.htm",
+ "scope": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/",
+ "fetched_at": "2026-11-09T04:00:15Z",
+ "pages": [
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/01.htm",
+   "path": "01.htm",
+   "sha256": "e9299c1167f0754f073b8e12d13f48e08eaac86bc1b871514a5e2a9ceed44ecf",
+   "bytes": 70317
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/02.htm",
+   "path": "02.htm",
+   "sha256": "7347119144ced8a897173a66c660c2e59574e3d1f1bdae24602d18183b0d0620",
+   "bytes": 10570
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/01/00.htm",
+   "path": "01/00.htm",
+   "sha256": "62350f8cf788d0f8cd7c67fa8c7e298a9294219804d0a44421ad5b38c3870801",
+   "bytes": 4169
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/01/01.htm",
+   "path": "01/01.htm",
+   "sha256": "176bac20b50e771e3dd07581becee7db51ce0473088ab006e47a05f896f04ddd",
+   "bytes": 12612
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/01/02.htm",
+   "path": "01/02.htm",
+   "sha256": "86da9aac6e7875419157146bcc0af584cd806460070b9ba8ed2495d246de8693",
+   "bytes": 15123
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/01/03.htm",
+   "path": "01/03.htm",
+   "sha256": "71625e7b6406d740d2069318115949770274d0fba6cc6140929654782377d777",
+   "bytes": 14077
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/01/04.htm",
+   "path": "01/04.htm",
+   "sha256": "1dfbbc2cc7a4bd28f8bbbd2773e7212053fb7dae325815817a98274085a0a7bb",
+   "bytes": 16073
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/01/05.htm",
+   "path": "01/05.htm",
+   "sha256": "6b69afbebf1511e435e0cc81f7e89289775371c87eb2abe79f2d5463ee938d3e",
+   "bytes": 11714
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/01/06.htm",
+   "path": "01/06.htm",
+   "sha256": "c80ef02905d91321ab315bfeff65f2db4ecb092d96265a62a52103b6086cf9f7",
+   "bytes": 15644
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/01/07.htm",
+   "path": "01/07.htm",
+   "sha256": "8a9f1139d2a6cdc1634e9f1365e8abdacca44b08c02432f2159ffb8b63e3a1f7",
+   "bytes": 7062
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/01/08.htm",
+   "path": "01/08.htm",
+   "sha256": "83663503811bc2531d2f6995e57505e1353693c26a4194ace176020e5623f380",
+   "bytes": 6461
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/01/09.htm",
+   "path": "01/09.htm",
+   "sha256": "472230d26505bb2f23b0f6e6520dd9cd2cbd707696588e74b0a31a206a88f659",
+   "bytes": 6060
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/01/10.htm",
+   "path": "01/10.htm",
+   "sha256": "7106059aa27c48f23828a4c484f4202ec6017d20cf39070e852c7aa75f2054ed",
+   "bytes": 5454
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/02/01.htm",
+   "path": "02/01.htm",
+   "sha256": "049516217795643af2acb47c304863c714f0e8a7b4ef487104c232e960abf6f3",
+   "bytes": 11664
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/02/02.htm",
+   "path": "02/02.htm",
+   "sha256": "cf45df5da02c67a76a31fadc77fe4ad6084afd9142960f6a5e42311c261a6431",
+   "bytes": 9201
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/02/03.htm",
+   "path": "02/03.htm",
+   "sha256": "da208dead291573e06fb8e3ea99559a9d301ba13cb05bc3ecf23bbd48449356b",
+   "bytes": 12486
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/02/04.htm",
+   "path": "02/04.htm",
+   "sha256": "d1ab77be9062339a0f8cf37b0ab8ae9438b37c3d8e02705f80e322ea0326cdab",
+   "bytes": 10866
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/02/05.htm",
+   "path": "02/05.htm",
+   "sha256": "b39ace6337dfc2f2e355c9f2ddebd1e98faf028e4153a24fe51f6b9ef10b6b4c",
+   "bytes": 23184
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/02/06.htm",
+   "path": "02/06.htm",
+   "sha256": "1afcc8facd3e5e522ee5ce0307ce1f01ae8021690995d1fcef1264c8744c67ad",
+   "bytes": 17080
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/02/07.htm",
+   "path": "02/07.htm",
+   "sha256": "e8de5a5ac9bcd76f7947ef5b02f03a09f82fd4be0be99b32b582da1961fb750c",
+   "bytes": 12014
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/02/08.htm",
+   "path": "02/08.htm",
+   "sha256": "f2b305612fc99918072aa64f0046de4363eedd36d383d6997be636402a2bf4a4",
+   "bytes": 14978
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/02/09.htm",
+   "path": "02/09.htm",
+   "sha256": "3261a3f033f7d23faa040f8e2b06caeafeeeb3c6c19b9ae21ef5e23a7cc2e2e6",
+   "bytes": 8993
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/02/10.htm",
+   "path": "02/10.htm",
+   "sha256": "e33cc2c53ce5fc59249b7c256b15aed4aed2a74debac9191f5b377e156c91050",
+   "bytes": 13506
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/02/11.htm",
+   "path": "02/11.htm",
+   "sha256": "d18a26166d694b2af7d8e8f28d4bd73773fd9cedf020dda036e9211a7674751f",
+   "bytes": 13197
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/02/12.htm",
+   "path": "02/12.htm",
+   "sha256": "e27a184fe6da2546d2f46b31daa1d55a39caab99e730aee44a8c3123793d7053",
+   "bytes": 19852
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/03/01.htm",
+   "path": "03/01.htm",
+   "sha256": "902e3628c0eff5da1482754ebb82c79f766391bb81ed4d9f4eefa9657714a2e6",
+   "bytes": 10140
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/04/01.htm",
+   "path": "04/01.htm",
+   "sha256": "51fd5e3970f646f4a915155affc9370ae22d7cbe46b920f2eab342575532f589",
+   "bytes": 22929
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/05/01.htm",
+   "path": "05/01.htm",
+   "sha256": "80bd690f92af806cf51f32d2d56d93c6e215ac5e7a44842fe3b5e9b37e5d0888",
+   "bytes": 5436
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/06/01.htm",
+   "path": "06/01.htm",
+   "sha256": "f5e63a6f58bce6adbd1b271667ada391404fbd45e3905a9ac07c7215d4c27edb",
+   "bytes": 13324
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/06/02.htm",
+   "path": "06/02.htm",
+   "sha256": "926f608a0e204e4835f25f44c8b556016e7a181f760e13983d24fe84abff07a7",
+   "bytes": 25381
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/06/03.htm",
+   "path": "06/03.htm",
+   "sha256": "6f15d14ae261482f287477589d53b13969d962ed9e9b546097d87534a26f9dd8",
+   "bytes": 17064
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/06/04.htm",
+   "path": "06/04.htm",
+   "sha256": "8d7327ea34c7e024d28cfb1548b4fa86e68211436a6c0d86b367bde144dd6842",
+   "bytes": 16089
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/06/05.htm",
+   "path": "06/05.htm",
+   "sha256": "b450d65610740b2003d1db3a523f8fdc4df3906e77c269a1a7cfd2856a7861bd",
+   "bytes": 10738
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/06/06.htm",
+   "path": "06/06.htm",
+   "sha256": "0783ef177913f35db542e9792b19be4964382b2121d00833c102ad49cddc897c",
+   "bytes": 13112
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/07/01.htm",
+   "path": "07/01.htm",
+   "sha256": "27aa9039bb5b24b06aef7827889e9f6d5115b06660b6994610f9d53d799d7c40",
+   "bytes": 23824
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/fusoku/01.htm",
+   "path": "fusoku/01.htm",
+   "sha256": "15d380be15b775f43f4fd47aa71416c726b14e5a2bd4910034a71900a71ec1c2",
+   "bytes": 4749
+  }
+ ]
+}

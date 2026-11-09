@@ -1,0 +1,213 @@
+{
+ "key": "sochi_kabu",
+ "title": "租税特別措置法関係通達（株式等に係る譲渡所得等関係）",
+ "entry": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/020624/sanrin/01.htm",
+ "scope": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/020624/sanrin/",
+ "fetched_at": "2026-11-09T04:07:50Z",
+ "pages": [
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/020624/sanrin/01.htm",
+   "path": "01.htm",
+   "sha256": "7786d2bf5b349373558374161d69e331fa1b71de8a556186c9b51d29fa84ff21",
+   "bytes": 38811
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/020624/sanrin/1273/zenbun/01.htm",
+   "path": "1273/zenbun/01.htm",
+   "sha256": "cce55a804ed57837cb40dc5cad4629e7a0f649ee7f639a5598d72d35565d1acd",
+   "bytes": 12342
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/020624/sanrin/1273/37_10-11/01.htm",
+   "path": "1273/37_10-11/01.htm",
+   "sha256": "1a5b4e441444e643d64a011a2972421d172d16f96b4f1b8a0bbcd4cfcc6e469f",
+   "bytes": 47988
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/020624/sanrin/1273/37_10/01.htm",
+   "path": "1273/37_10/01.htm",
+   "sha256": "867979a192f7da5aa0f0c8028d2d386edd815f1f353f755d4d901ebb63b85d5f",
+   "bytes": 43006
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/020624/sanrin/1273/37_11/01.htm",
+   "path": "1273/37_11/01.htm",
+   "sha256": "6fe17ee21b06150efdb5074162a11881608e9e972bf890237b7ff7b1a18a9837",
+   "bytes": 21248
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/020624/sanrin/1273/37_10_2/01.htm",
+   "path": "1273/37_10_2/01.htm",
+   "sha256": "24ab24193168a2e23378ba81850702bc02146f32f423c672ddd281409d36c1f2",
+   "bytes": 7389
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/020624/sanrin/1273/37_11_3/01.htm",
+   "path": "1273/37_11_3/01.htm",
+   "sha256": "dcf512b33ece76b912ee1bd22903c321284382617b373515194bc6101ba8fc2e",
+   "bytes": 16935
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/020624/sanrin/1273/37_11_4/01.htm",
+   "path": "1273/37_11_4/01.htm",
+   "sha256": "6cb37241fce3608b3bbb4d39631c1595abf98577e5ea5448c735d12e31d87714",
+   "bytes": 5304
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/020624/sanrin/1273/37_11_5/01.htm",
+   "path": "1273/37_11_5/01.htm",
+   "sha256": "ae1a712d03c06feed7e5de8d172dfb327de2edfbb9fee1b743098776383ea472",
+   "bytes": 6929
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/020624/sanrin/1273/37_11_6/01.htm",
+   "path": "1273/37_11_6/01.htm",
+   "sha256": "28ee296cca57b4870f5fa4560a1c2ae0a31cdf7ca5e0c7554ee44470ed36122c",
+   "bytes": 4973
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/020624/sanrin/1273/37_12/01.htm",
+   "path": "1273/37_12/01.htm",
+   "sha256": "6eeb2aea238e5de30886f19677fe0a06ddc238abddb0a4dd5a7c8e3860663192",
+   "bytes": 4336
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/020624/sanrin/1273/37_12_2/01.htm",
+   "path": "1273/37_12_2/01.htm",
+   "sha256": "ed5a8732ceed04869bb08daed1fdbe5196d426a4847030103ba9d97e11a56260",
+   "bytes": 7023
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/020624/sanrin/1273/37_13/01.htm",
+   "path": "1273/37_13/01.htm",
+   "sha256": "404da100966f65c5b455cbd130062c1d47859de24560a1792f88f5f7d5f6b92b",
+   "bytes": 26851
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/020624/sanrin/1273/37_13_2/01.htm",
+   "path": "1273/37_13_2/01.htm",
+   "sha256": "ac35d8d4d3f607ee100b6e9c8460c6416860a54af0367e859ebee9a5b3435328",
+   "bytes": 7905
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/020624/sanrin/1273/37_13_3/01.htm",
+   "path": "1273/37_13_3/01.htm",
+   "sha256": "cefed4156d0acb2257a1bbb7e0ae4ec9221fd68484ab8657a733871e61d2c9e9",
+   "bytes": 3993
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/020624/sanrin/1273/37_13_4/01.htm",
+   "path": "1273/37_13_4/01.htm",
+   "sha256": "7f325d152313fd77b1eaa962a3e2efa5b3ef4c5d0a43980e5750e10f1ead3940",
+   "bytes": 8050
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/020624/sanrin/1273/37_14/01.htm",
+   "path": "1273/37_14/01.htm",
+   "sha256": "f7ebcd7855d2474065a55d5a897e5b93e04af50761854806d1d8e55a643f7c2a",
+   "bytes": 55690
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/020624/sanrin/1273/37_14_2/01.htm",
+   "path": "1273/37_14_2/01.htm",
+   "sha256": "4ba21897ac6fdb48c2b2decb9de8570c2d679a59ad5f2d656809c35f982f7bc9",
+   "bytes": 35219
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/020624/sanrin/03.htm",
+   "path": "03.htm",
+   "sha256": "700f241bb679a0c822db5f94c2933cf62ffe20ae4bba33234973b4fb17077eb7",
+   "bytes": 24502
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/020624/sanrin/1273_1/01.htm",
+   "path": "1273_1/01.htm",
+   "sha256": "94f0f8bc5b6ff86fcf5f5d0ad9d537d6e364730e275fe65e4fdccd8224a93f66",
+   "bytes": 23046
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/020624/sanrin/1273_1/zenbun/01.htm",
+   "path": "1273_1/zenbun/01.htm",
+   "sha256": "c9b3685e811807863aed948115748b7c718f5140321b7bbda9da330d3a1d3e8c",
+   "bytes": 4919
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/020624/sanrin/1273_1/37_10/01.htm",
+   "path": "1273_1/37_10/01.htm",
+   "sha256": "c824de0312946bdc415a4f74f0607251ba9c42c698f8ecd84ee4d697d488543c",
+   "bytes": 34876
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/020624/sanrin/1273_1/37_11/01.htm",
+   "path": "1273_1/37_11/01.htm",
+   "sha256": "fadb0ec694d85f88e8cd527a833c6898dd93090d3b8cde56c284fbda01db8bd9",
+   "bytes": 6129
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/020624/sanrin/1273_1/37_11_2/01.htm",
+   "path": "1273_1/37_11_2/01.htm",
+   "sha256": "e099f2ff71c101c666adbd2f016dc90fe6f7c10d25e40f5955b62c6e4a7ab97b",
+   "bytes": 17999
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/020624/sanrin/1273_1/37_11_3/01.htm",
+   "path": "1273_1/37_11_3/01.htm",
+   "sha256": "f8b3dedf1c06f36aad7cfa96d4d38c7fd8030175fa4243191c07e321ea77ae96",
+   "bytes": 8587
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/020624/sanrin/1273_1/37_11_4/01.htm",
+   "path": "1273_1/37_11_4/01.htm",
+   "sha256": "380c846625ef57b5c8f6ceb4210576283fd7fbbba4f1f15b5a4f552a0228b8f2",
+   "bytes": 6746
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/020624/sanrin/1273_1/37_11_5/01.htm",
+   "path": "1273_1/37_11_5/01.htm",
+   "sha256": "ecc2b53e46ad522b47b359b7f7d00de85fb58ed97de51286403f002596a83ae6",
+   "bytes": 6863
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/020624/sanrin/1273_1/37_12/01.htm",
+   "path": "1273_1/37_12/01.htm",
+   "sha256": "2b77caec0fb30cd4e102c50e51bf9faec36d7bfc692a8867483aee159cb6b287",
+   "bytes": 3999
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/020624/sanrin/1273_1/37_12_2/01.htm",
+   "path": "1273_1/37_12_2/01.htm",
+   "sha256": "afad8510a7f2942a72331343f9da0ca86ce64bee281abd82097aa2fab2fc26cf",
+   "bytes": 5700
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/020624/sanrin/1273_1/37_13/01.htm",
+   "path": "1273_1/37_13/01.htm",
+   "sha256": "0ce3ce490cdcaa7911795cc390d89c33b91b7cf6d30ce80d4b0fdc2ec610847a",
+   "bytes": 6561
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/020624/sanrin/1273_1/37_14/01.htm",
+   "path": "1273_1/37_14/01.htm",
+   "sha256": "d1d34bed6070ad8f8fdfe4289f7ee62a760b5dd39d82afc89eec5b88a3afe6b3",
+   "bytes": 5188
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/020624/sanrin/1273_1/37_14_2/01.htm",
+   "path": "1273_1/37_14_2/01.htm",
+   "sha256": "82ea0be2a9176865fd5a6d0e737e95f5b114aee58f5907c1e6d27aa0a76f09a2",
+   "bytes": 13676
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/020624/sanrin/1273_1/37_16/01.htm",
+   "path": "1273_1/37_16/01.htm",
+   "sha256": "58affd07e842b12a388b26a60b311df38f976d3a47f7ed4d137440a1441e2073",
+   "bytes": 4548
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/020624/sanrin/1273_1/02.htm",
+   "path": "1273_1/02.htm",
+   "sha256": "0c5804a7b26d0932c995dd3eb9122e67c4752eb7ffa75b5ac270b18cf41ff18b",
+   "bytes": 16295
+  }
+ ]
+}

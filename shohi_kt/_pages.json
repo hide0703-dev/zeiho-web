@@ -1,0 +1,1179 @@
+{
+ "key": "shohi_kt",
+ "title": "消費税法基本通達",
+ "entry": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/01.htm",
+ "scope": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/",
+ "fetched_at": "2026-11-09T04:04:57Z",
+ "pages": [
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/01.htm",
+   "path": "01.htm",
+   "sha256": "3c5ead9275dfc97917b983f6d0ad1ae1618b51cb59f0b80a89ee10bac9bc3a4f",
+   "bytes": 15511
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/02.htm",
+   "path": "02.htm",
+   "sha256": "d936c885b767f1a35e4612f0275e5541e730137b3109e99880e88f0e2f6ac3c7",
+   "bytes": 17918
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/01/01.htm",
+   "path": "01/01.htm",
+   "sha256": "68c5954759d4b87a5da72c274ced2ad1b96ec408e7080a275ce83fc76ffb09c7",
+   "bytes": 4684
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/01/02.htm",
+   "path": "01/02.htm",
+   "sha256": "dbada9bdecd0511cba0dd09e8f069a9e198da474f124b15e4482dced65a2c1ea",
+   "bytes": 6412
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/01/03.htm",
+   "path": "01/03.htm",
+   "sha256": "8140a5121b72f2150405d40b17d30e1d047d32a0e50e5ad5eb616e47a6873a61",
+   "bytes": 4113
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/01/04.htm",
+   "path": "01/04.htm",
+   "sha256": "db191e63f903c6768d8721db2d838ead4f8779aa5b9a62e3ea0415a4c3cc6a67",
+   "bytes": 23940
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/01/05.htm",
+   "path": "01/05.htm",
+   "sha256": "8215f3df4e92b73e90e12810390240eba97bffb03246aa71f5875dc60bc0999a",
+   "bytes": 28501
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/01/06.htm",
+   "path": "01/06.htm",
+   "sha256": "4e7af070e6a551db55e0fef7476604aba2478cc2dfcace3fd471a4a956cdc083",
+   "bytes": 3771
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/01/07.htm",
+   "path": "01/07.htm",
+   "sha256": "d4881532dc0d030246d7227af1ff4d95bf6599f2f47c79d985acdaf67af9de86",
+   "bytes": 11487
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/01/08.htm",
+   "path": "01/08.htm",
+   "sha256": "6bc61a942ca06c39b80a7081b74117109411be8349f478d60c24d3169b3c327f",
+   "bytes": 20016
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/02/01.htm",
+   "path": "02/01.htm",
+   "sha256": "0d7aad743d141c298dadb16b0f61e8c432e9552eacd433d554e3e296b30820f3",
+   "bytes": 4080
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/02/02.htm",
+   "path": "02/02.htm",
+   "sha256": "3a622021b25de894b459093039cefbcee86d7ac43cae5a7fde50f3a5ef2fb207",
+   "bytes": 4303
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/03/01.htm",
+   "path": "03/01.htm",
+   "sha256": "f9165f7d2e7d144ba0bc6cd90ce416179b9bb8fd6e3ea86c19a3fb406963a6f8",
+   "bytes": 4272
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/03/02.htm",
+   "path": "03/02.htm",
+   "sha256": "cf353767951df4553949e9053eca453a3a77b29189573c0d5bf5278b388ef26b",
+   "bytes": 9572
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/03/03.htm",
+   "path": "03/03.htm",
+   "sha256": "be62fb2aa539a71a1fd08f7b897d900dfb557c38714a0230bbb9648ec3c62cb8",
+   "bytes": 7391
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/04/01.htm",
+   "path": "04/01.htm",
+   "sha256": "dd5f23f56488a2d44653eb578f902b65a3a328a53c146a422c75e1b660870bfe",
+   "bytes": 4358
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/04/02.htm",
+   "path": "04/02.htm",
+   "sha256": "a12e18544d759ba059fa4d74455eefc948bc64ee229e7d73dc1ac113f65533ee",
+   "bytes": 4901
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/04/03.htm",
+   "path": "04/03.htm",
+   "sha256": "75eb066f84ef0901c15b988d936b733b0684849791f2c76a836fdd3db21a0eae",
+   "bytes": 6741
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/04/04.htm",
+   "path": "04/04.htm",
+   "sha256": "7d633acf6660de1f44665d558207716f50b619931b668ffbd746f5c988657646",
+   "bytes": 8047
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/05/01.htm",
+   "path": "05/01.htm",
+   "sha256": "9380e6fcf440442b6b284e54b2250eb884fccfb3977bb6b446fb4630f5e9711a",
+   "bytes": 9785
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/05/02.htm",
+   "path": "05/02.htm",
+   "sha256": "461b3551453f6e802dede6c53eeb7bf5cb23ab37155c00bebb43491d5797295a",
+   "bytes": 13701
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/05/03/01.htm",
+   "path": "05/03/01.htm",
+   "sha256": "3788e2624a2262b81666755298c6a62393fb8b9b7a46170e6f324c29bbcdcf35",
+   "bytes": 4311
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/05/03/02.htm",
+   "path": "05/03/02.htm",
+   "sha256": "449520dd0dd37b95d2b8278aeb911806a265505ab09cdd6d1bae71311fc57787",
+   "bytes": 5754
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/05/04.htm",
+   "path": "05/04.htm",
+   "sha256": "ab023376cd531203d3706ce50f07cc42076fef6072e7884b6537bde0a58aab63",
+   "bytes": 5539
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/05/05.htm",
+   "path": "05/05.htm",
+   "sha256": "2b9249d01ebc32628fd6b3cec1cdff64bbccc158b264e11b4862a1162e97e6ce",
+   "bytes": 12368
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/05/06.htm",
+   "path": "05/06.htm",
+   "sha256": "2f89f6cffa8fc2958c46706966b9ba1a6d94c56af07736ba4f4c5be6ea651bb5",
+   "bytes": 7134
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/05/07.htm",
+   "path": "05/07.htm",
+   "sha256": "8e98f884ab685219e11644a39f6d6ddb24907a98d962603b80a27d9700db261d",
+   "bytes": 15079
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/05/08.htm",
+   "path": "05/08.htm",
+   "sha256": "286d7c9469e36801426c167c23571964c729ab2ec2717484b53cc884f84fe73f",
+   "bytes": 10659
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/05/09.htm",
+   "path": "05/09.htm",
+   "sha256": "7a61f23e419163b7f5caa4943270ae400b883fdf7a13822658efa4facc206734",
+   "bytes": 15178
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/06/01.htm",
+   "path": "06/01.htm",
+   "sha256": "a7468897dbd372d4d5b665fbf13b27457d67d748c7911c390688513331922341",
+   "bytes": 6842
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/06/02.htm",
+   "path": "06/02.htm",
+   "sha256": "91ec21fb1a24f10ed0b23a4225862fb60c1b321048f44c4fbe51f955adae472f",
+   "bytes": 9480
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/06/03.htm",
+   "path": "06/03.htm",
+   "sha256": "1e9d5249405a6c90169eae9b84317d6449ad15c819d591882acaa286dbf82d47",
+   "bytes": 10318
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/06/04.htm",
+   "path": "06/04.htm",
+   "sha256": "1773dc9a0638059ec28ecced52f5bb63875c1e5962629036eee21a17b32cd596",
+   "bytes": 6928
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/06/05.htm",
+   "path": "06/05.htm",
+   "sha256": "92eea8fcab3bbdca77dcb0b39ad2e4c420bc071e06d6eb1890f26ede864ddcb9",
+   "bytes": 10419
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/06/06.htm",
+   "path": "06/06.htm",
+   "sha256": "34a2bda7d36d537ebd65d7dea9050716f652fed5911f55ed655427b45403a9ef",
+   "bytes": 6712
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/06/07.htm",
+   "path": "06/07.htm",
+   "sha256": "05186b4dabfc3f8a576fb77ebad9c0e4f9e1878c770fd20e0bc8f1cc08d6112d",
+   "bytes": 30117
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/06/08.htm",
+   "path": "06/08.htm",
+   "sha256": "6957ce02f356441fc482f1a8c201057ca7b58f3809be1c9eb82e754486da25a7",
+   "bytes": 5439
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/06/09.htm",
+   "path": "06/09.htm",
+   "sha256": "18dccc60150d8aab6f94ec4140f189064c5c7ca1b48c1016a6fa0623253825cd",
+   "bytes": 3966
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/06/10.htm",
+   "path": "06/10.htm",
+   "sha256": "b8d5efc889b464c1acd465e220c458345049564fec4d0386fac38dca29ceb0c9",
+   "bytes": 5444
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/06/11.htm",
+   "path": "06/11.htm",
+   "sha256": "01eb4ac7495e12b459ad232de9954eb2cf305bb9ce12129b8a3f9baacb293c06",
+   "bytes": 8218
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/06/12.htm",
+   "path": "06/12.htm",
+   "sha256": "1e414658dfde90b675146430875f408747e91f21081580430e88637f3d3fbe11",
+   "bytes": 4855
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/06/13.htm",
+   "path": "06/13.htm",
+   "sha256": "5d1a9bbaa61f9d33f892c0e641417fb742763dc99c3379f56d4e88322bb4dc50",
+   "bytes": 9864
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/07/01.htm",
+   "path": "07/01.htm",
+   "sha256": "a7a9338d534421f65650c0a2a6140eb63f364957cecc27c5acea99b9dc00e775",
+   "bytes": 4289
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/07/02.htm",
+   "path": "07/02.htm",
+   "sha256": "549b7f04034db09cec2cad1476c71dbaa0799275436866540ef91341b535b2e7",
+   "bytes": 25004
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/07/03.htm",
+   "path": "07/03.htm",
+   "sha256": "d8006f0df315b2e290b2cf9ed568f0261cc3680016d3530e61ca885bbe5a0f62",
+   "bytes": 5706
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/08/01.htm",
+   "path": "08/01.htm",
+   "sha256": "25e81f515dcf7a12e699dcefff8c2dee46609f49912acb434d92456186b1e903",
+   "bytes": 15863
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/08/02.htm",
+   "path": "08/02.htm",
+   "sha256": "023fae5fd96e0cd47fb963c3174c1c3fe348df0eaeed30701652d981d6b6f252",
+   "bytes": 19050
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/08/03.htm",
+   "path": "08/03.htm",
+   "sha256": "af9d0440f2225cf51693a8f6f58df2d3645f873073caf1d2d7b899ea451ea1dd",
+   "bytes": 8810
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/09/01/01.htm",
+   "path": "09/01/01.htm",
+   "sha256": "a2c31f1ac8dd8baf39f7ef8a616023f355ef25f1870c811aba29bf7384ab1c2c",
+   "bytes": 6035
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/09/01/02.htm",
+   "path": "09/01/02.htm",
+   "sha256": "91e9affd7c25e2b74eb76e29ec5b2d6e06599e5407a9ecadfec518e59f2642cc",
+   "bytes": 10205
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/09/01/03.htm",
+   "path": "09/01/03.htm",
+   "sha256": "2b71690e6053c9f46c4fac61bd52db104a75717ff5e02189ddf26611d63c2603",
+   "bytes": 6252
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/09/01/04.htm",
+   "path": "09/01/04.htm",
+   "sha256": "f9553ad485924861005b81f68d24d200bff427fc113bc2c0a2ca6f035a94af5f",
+   "bytes": 5572
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/09/01/05.htm",
+   "path": "09/01/05.htm",
+   "sha256": "2514d36a2a1caa947cad41abaf9701f56905c7f5ecda79b97323be0b04c6109e",
+   "bytes": 5970
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/09/01/06.htm",
+   "path": "09/01/06.htm",
+   "sha256": "268bbaf1fc5984fad2e041b10db189634109ff2ab608e98b6963a0c5bdae0d04",
+   "bytes": 9030
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/09/03.htm",
+   "path": "09/03.htm",
+   "sha256": "ef160098bf4d716680f96b465f02772e42724d155c138f18b86ede04bfcb0c7f",
+   "bytes": 5519
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/09/04.htm",
+   "path": "09/04.htm",
+   "sha256": "381580692a4ede9195dea3123a32bf8a948f88976d5851b8f8706d3ae8b20acc",
+   "bytes": 5029
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/09/05.htm",
+   "path": "09/05.htm",
+   "sha256": "ee994d2f8625134c3d70c9df5b29e2ccf22d42a769b85116c9054ce3f98e87ca",
+   "bytes": 5451
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/09/06.htm",
+   "path": "09/06.htm",
+   "sha256": "e007345d56360d3023c337a99178e7f61344d379ee7396f475e28f47072a8afa",
+   "bytes": 4381
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/10/01.htm",
+   "path": "10/01.htm",
+   "sha256": "58a98353af537fc9f2878eb10c282062ae242dfc5abd5c2a7f1be678b2076e3c",
+   "bytes": 18511
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/10/02.htm",
+   "path": "10/02.htm",
+   "sha256": "b9d64a0f71fdf0360e236a841956b8b66d0e044eaae4318285fbd03c7b5e1a79",
+   "bytes": 5740
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/11/01.htm",
+   "path": "11/01.htm",
+   "sha256": "eb9b5920d35ba365f91deadb1e9b247be2d1f4a6b2e7464a57f7ce48e60aa653",
+   "bytes": 11427
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/11/02.htm",
+   "path": "11/02.htm",
+   "sha256": "70bf57ed7a8d64bb96ceb28f8cb5019fa65ec1b1508074a8ed978d8c6367965b",
+   "bytes": 16528
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/11/03.htm",
+   "path": "11/03.htm",
+   "sha256": "32ec9fbda3d5eb7a5d33816f93cd859448584d5e6f7a8790de800938ed7bd09a",
+   "bytes": 11033
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/11/04.htm",
+   "path": "11/04.htm",
+   "sha256": "743774232bb87d12a6ea60911e95cad6604ae50970faaa0e786000ff1772d3c0",
+   "bytes": 7712
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/11/05.htm",
+   "path": "11/05.htm",
+   "sha256": "e52a63a019ec30bd963982d194e55f0501e0d7054111e7c447e360cb0dbf1a13",
+   "bytes": 10381
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/11/06.htm",
+   "path": "11/06.htm",
+   "sha256": "386fdc59cc2f9d0990a4fda8b8e68618366a3fadeed7bacc884d5212dfc19d02",
+   "bytes": 15152
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/11/08.htm",
+   "path": "11/08.htm",
+   "sha256": "ca12e00674754ad354bbee4fbcfbcc441c13a90573a42cb1eaf391593d86282c",
+   "bytes": 7304
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/11/07.htm",
+   "path": "11/07.htm",
+   "sha256": "833411b5118bad8728c2f6c4c295c24568865efc1b22d8fda60f7dbfdbf22439",
+   "bytes": 4075
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/12/01/01.htm",
+   "path": "12/01/01.htm",
+   "sha256": "7418e770ec562ee919bcdab1fdf561f0b6d3083a77bd09d03513c7436209711c",
+   "bytes": 7173
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/12/01/02.htm",
+   "path": "12/01/02.htm",
+   "sha256": "6166627c920f997e77b296df92be5a092302773be16af2360cb4ed5fe0a6d109",
+   "bytes": 6286
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/12/01/03.htm",
+   "path": "12/01/03.htm",
+   "sha256": "1cf91aaa4216683607acb43a4897147d7fccf43b2966762376bfd24fbc3eaf70",
+   "bytes": 4492
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/12/02.htm",
+   "path": "12/02.htm",
+   "sha256": "16f0b8e422cbc9eabb5253286be41a956a59e07833555b84fbf6a855b4503621",
+   "bytes": 6536
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/12/03.htm",
+   "path": "12/03.htm",
+   "sha256": "dba88f765e930b93debad8fc62356d29321df0feed3046ee4be42019a7a39b38",
+   "bytes": 5374
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/12/04.htm",
+   "path": "12/04.htm",
+   "sha256": "c804f06ce28da2f156f23e1f731881b07cc069c0269a30c6ff947406f5bbedfd",
+   "bytes": 5690
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/12/05.htm",
+   "path": "12/05.htm",
+   "sha256": "2569ed11f017618bb4bed95e429347941ba4d873aea1e31c0f38a1ce3617c271",
+   "bytes": 4760
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/12/07.htm",
+   "path": "12/07.htm",
+   "sha256": "0c95c65426739c192f187cb0e47898ea6cbea2211a99353eda94f4d011e75d45",
+   "bytes": 4943
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/12/06.htm",
+   "path": "12/06.htm",
+   "sha256": "ddb4362bcfae4e4365e8503b0ea1e355ea804b2e68cb1507ad6cf0b66b655925",
+   "bytes": 7632
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/13/01.htm",
+   "path": "13/01.htm",
+   "sha256": "850ed866638af143b67bca3869eeeb8e932baaeca3bdec3164e5659e3bed99f0",
+   "bytes": 17676
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/13/02.htm",
+   "path": "13/02.htm",
+   "sha256": "c746172c8340fd65512a5447078d927d2ae1acec69ca725858afccd194972da2",
+   "bytes": 13771
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/13/03.htm",
+   "path": "13/03.htm",
+   "sha256": "b848f46b4f9485a60d3e96cab2d90a2b2b2ae48bafcfafffaa64c97ba932ae26",
+   "bytes": 5200
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/13/04.htm",
+   "path": "13/04.htm",
+   "sha256": "4fdc7c10668091dbf8d1e18134b42030fcb22f312c06bf25ffce7fdbf73ea9d0",
+   "bytes": 5024
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/14/01/01.htm",
+   "path": "14/01/01.htm",
+   "sha256": "9942152539596b51649ef7ef179dd54ad82b88007482d3c0ea296bf5528862c0",
+   "bytes": 7850
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/14/01/02.htm",
+   "path": "14/01/02.htm",
+   "sha256": "def6bd51f212fa6058a20d68c54af65721ad0237b4c22c951ff6a72a73f35f52",
+   "bytes": 6356
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/14/01/03.htm",
+   "path": "14/01/03.htm",
+   "sha256": "0fcad9ae7f1aae60c6e0864f38aa30353aaa6cbd5a99a11507d0699b7af158ee",
+   "bytes": 5365
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/14/02.htm",
+   "path": "14/02.htm",
+   "sha256": "79997506166353827301d31e5270f1d9d5e8218d5b9765aacf4c5aab5eb216c6",
+   "bytes": 6219
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/15/01.htm",
+   "path": "15/01.htm",
+   "sha256": "1efd4a1b372e46ed4e87d946efe0bc8bd16dc996142f2c6e5a9ac61b7447e428",
+   "bytes": 18332
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/15/02.htm",
+   "path": "15/02.htm",
+   "sha256": "6bdb0e490eb28a6a594dc88ea4bd4ca842cc51084a3ab83b91f72033280e27fb",
+   "bytes": 11282
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/15/03.htm",
+   "path": "15/03.htm",
+   "sha256": "eeede3f9773ee8374a7ae481d61f7a07121fd1ef1739cbb583ca0b75ebfb85a1",
+   "bytes": 3857
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/15/04.htm",
+   "path": "15/04.htm",
+   "sha256": "c8cb7330bbdd196cdcc3ab8895ca1e678f86fe5ed748f23fc9f72e4a3b4d732e",
+   "bytes": 8440
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/15/05.htm",
+   "path": "15/05.htm",
+   "sha256": "7988629c29f37eca42bb932a42bd628a6e1c2d975091a1e08a426f6f2260c2ab",
+   "bytes": 4651
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/16/01.htm",
+   "path": "16/01.htm",
+   "sha256": "01b32a80c3016492f724ac94dd942355312b0f1926e254dd20a40e1e80344672",
+   "bytes": 7938
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/16/02.htm",
+   "path": "16/02.htm",
+   "sha256": "2d22518f80d42d8e93b5663ad3a7182b241620e7e8097328d2ba53e0314ca9b3",
+   "bytes": 16031
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/16/03.htm",
+   "path": "16/03.htm",
+   "sha256": "a3b5dfa82d795ee763b682eaacfc1f05a1e64d068fdd9ee5a7833fce711ade30",
+   "bytes": 8408
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/17/01.htm",
+   "path": "17/01.htm",
+   "sha256": "653324231f112c323169e8d6569e8f47bce4a432a54eb37f895e83cfb4504793",
+   "bytes": 5263
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/17/02.htm",
+   "path": "17/02.htm",
+   "sha256": "441dedc939ee8831013071a7bccfe5c051ef9198de6d689639804d0918b298e2",
+   "bytes": 4935
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/17/03.htm",
+   "path": "17/03.htm",
+   "sha256": "ace0da132da103edb6b44f197f4294ddf58ad4e61fd3f408d3d02b097ce69332",
+   "bytes": 3688
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/18/01.htm",
+   "path": "18/01.htm",
+   "sha256": "aa855eaceb2bf8b5b0c9b917c4e6ac396c0881b28e18d40c395051767399cb30",
+   "bytes": 9370
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/19/01.htm",
+   "path": "19/01.htm",
+   "sha256": "1e02f1e86f681cc6b4359e5b65ee257f1fc692bc95b6681a4140214b813eeab3",
+   "bytes": 4908
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20/01.htm",
+   "path": "20/01.htm",
+   "sha256": "64dedd8204b91489aee9a504426e26adc0925f151e8354a331a98c928b9ee003",
+   "bytes": 8700
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/21/01.htm",
+   "path": "21/01.htm",
+   "sha256": "ca1045de097d1f9a054c194d0a5fa5a5e804c083ee2fae59c9de1c62bd53a848",
+   "bytes": 9772
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/01.htm",
+   "path": "20230930/01.htm",
+   "sha256": "2a6d8b556a6f1c80bf94afe87c465d127e75c6b336f2333335a496359e8fd405",
+   "bytes": 15409
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/09/03.htm",
+   "path": "20230930/09/03.htm",
+   "sha256": "03d71e6746b39e58585edcbe127b63606326fec8487b4d9a8763961e8f4b40d1",
+   "bytes": 9744
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/02.htm",
+   "path": "20230930/02.htm",
+   "sha256": "463ef52939ce5736c2e834fc2cdd3a34e13fc7353b2a00426488eef9c07df44f",
+   "bytes": 15179
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/01/01.htm",
+   "path": "20230930/01/01.htm",
+   "sha256": "68c5954759d4b87a5da72c274ced2ad1b96ec408e7080a275ce83fc76ffb09c7",
+   "bytes": 4684
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/01/02.htm",
+   "path": "20230930/01/02.htm",
+   "sha256": "dbada9bdecd0511cba0dd09e8f069a9e198da474f124b15e4482dced65a2c1ea",
+   "bytes": 6412
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/01/03.htm",
+   "path": "20230930/01/03.htm",
+   "sha256": "8140a5121b72f2150405d40b17d30e1d047d32a0e50e5ad5eb616e47a6873a61",
+   "bytes": 4113
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/01/04.htm",
+   "path": "20230930/01/04.htm",
+   "sha256": "2fee200322a63da3610c872aab2c25f4df188ce106c9294931101081c3536c45",
+   "bytes": 21214
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/01/05.htm",
+   "path": "20230930/01/05.htm",
+   "sha256": "013a687ee03ba818d2837a1e11099115c8a8eab96b4d203b2f60471b4622133b",
+   "bytes": 26037
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/01/06.htm",
+   "path": "20230930/01/06.htm",
+   "sha256": "4e7af070e6a551db55e0fef7476604aba2478cc2dfcace3fd471a4a956cdc083",
+   "bytes": 3771
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/02/01.htm",
+   "path": "20230930/02/01.htm",
+   "sha256": "0d7aad743d141c298dadb16b0f61e8c432e9552eacd433d554e3e296b30820f3",
+   "bytes": 4080
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/02/02.htm",
+   "path": "20230930/02/02.htm",
+   "sha256": "3a622021b25de894b459093039cefbcee86d7ac43cae5a7fde50f3a5ef2fb207",
+   "bytes": 4303
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/03/01.htm",
+   "path": "20230930/03/01.htm",
+   "sha256": "f9165f7d2e7d144ba0bc6cd90ce416179b9bb8fd6e3ea86c19a3fb406963a6f8",
+   "bytes": 4272
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/03/02.htm",
+   "path": "20230930/03/02.htm",
+   "sha256": "adb4c38f8c002a0cc58c7d2b7724b7095afead16ceee33ae960eee525f019f22",
+   "bytes": 9322
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/03/03.htm",
+   "path": "20230930/03/03.htm",
+   "sha256": "be62fb2aa539a71a1fd08f7b897d900dfb557c38714a0230bbb9648ec3c62cb8",
+   "bytes": 7391
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/04/01.htm",
+   "path": "20230930/04/01.htm",
+   "sha256": "dd5f23f56488a2d44653eb578f902b65a3a328a53c146a422c75e1b660870bfe",
+   "bytes": 4358
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/04/02.htm",
+   "path": "20230930/04/02.htm",
+   "sha256": "990b847b5209cfce3f6b425d209c9c1e87338c9ebaaaba79e2c7eb9d671d08c4",
+   "bytes": 4749
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/04/03.htm",
+   "path": "20230930/04/03.htm",
+   "sha256": "75eb066f84ef0901c15b988d936b733b0684849791f2c76a836fdd3db21a0eae",
+   "bytes": 6741
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/04/04.htm",
+   "path": "20230930/04/04.htm",
+   "sha256": "16f95329c9a949ed28d17967be783ce5c6f1b414a66ca845d8cab00fa56313b0",
+   "bytes": 7016
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/05/01.htm",
+   "path": "20230930/05/01.htm",
+   "sha256": "32bbad142680a78aa7e27342cb6ad6944ecafc8b8239a8fcd33643e24f8b4af2",
+   "bytes": 9806
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/05/02.htm",
+   "path": "20230930/05/02.htm",
+   "sha256": "9a30cfb5d131c36cb11cce38a47b1e9420f5851eede971b092b4039419477bd7",
+   "bytes": 13507
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/05/03/01.htm",
+   "path": "20230930/05/03/01.htm",
+   "sha256": "3788e2624a2262b81666755298c6a62393fb8b9b7a46170e6f324c29bbcdcf35",
+   "bytes": 4311
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/05/03/02.htm",
+   "path": "20230930/05/03/02.htm",
+   "sha256": "449520dd0dd37b95d2b8278aeb911806a265505ab09cdd6d1bae71311fc57787",
+   "bytes": 5754
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/05/04.htm",
+   "path": "20230930/05/04.htm",
+   "sha256": "ab023376cd531203d3706ce50f07cc42076fef6072e7884b6537bde0a58aab63",
+   "bytes": 5539
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/05/05.htm",
+   "path": "20230930/05/05.htm",
+   "sha256": "2b9249d01ebc32628fd6b3cec1cdff64bbccc158b264e11b4862a1162e97e6ce",
+   "bytes": 12368
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/05/06.htm",
+   "path": "20230930/05/06.htm",
+   "sha256": "315d0d94e9cd608344f02d95fa7e5ccd77d6c7e8924cc220ba3bf51c6ee52e2a",
+   "bytes": 7118
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/05/07.htm",
+   "path": "20230930/05/07.htm",
+   "sha256": "29bf27c2b8d698ee250f3fca63979f042155b781cc79af26ffdb560f7d4084ff",
+   "bytes": 14470
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/05/08.htm",
+   "path": "20230930/05/08.htm",
+   "sha256": "b6d1d9bfcf2f152f8ea38e430a6eb868815927d8b7179d3e3f21a304a0129ca5",
+   "bytes": 9060
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/06/01.htm",
+   "path": "20230930/06/01.htm",
+   "sha256": "a7468897dbd372d4d5b665fbf13b27457d67d748c7911c390688513331922341",
+   "bytes": 6842
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/06/02.htm",
+   "path": "20230930/06/02.htm",
+   "sha256": "bad2969e4a1d266cd37187929bccdc3ec62556811c6291bbbc57da6bc374cad2",
+   "bytes": 9242
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/06/03.htm",
+   "path": "20230930/06/03.htm",
+   "sha256": "8aa557320ec1d54463c0c09532db86be2094660034e2dba359abdde425745ec6",
+   "bytes": 10098
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/06/04.htm",
+   "path": "20230930/06/04.htm",
+   "sha256": "6e799b2c48202bf28e80a7cf0ccae6a03aa82bf6c73d71c767e6f412571c7d55",
+   "bytes": 6596
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/06/05.htm",
+   "path": "20230930/06/05.htm",
+   "sha256": "6ebb36d3f7bd6910b81c6c2b5620bd02000fe0be99ae4b4265e8a6f8b32687b4",
+   "bytes": 10218
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/06/06.htm",
+   "path": "20230930/06/06.htm",
+   "sha256": "c7c910b1b1725657d6b5b9e426068239fbd3cb4d57cba40c563c0990a43fd3ec",
+   "bytes": 6522
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/06/07.htm",
+   "path": "20230930/06/07.htm",
+   "sha256": "3862789b4461c308e994d189595f92227e568f14c7b0e280406814f281a344b4",
+   "bytes": 29921
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/06/08.htm",
+   "path": "20230930/06/08.htm",
+   "sha256": "d496197ae830f43ebbee7f2dd50856b69b73d79aaeb397e5caabcd1c14ffb1bc",
+   "bytes": 5261
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/06/09.htm",
+   "path": "20230930/06/09.htm",
+   "sha256": "18dccc60150d8aab6f94ec4140f189064c5c7ca1b48c1016a6fa0623253825cd",
+   "bytes": 3966
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/06/10.htm",
+   "path": "20230930/06/10.htm",
+   "sha256": "72575a04a22ae97c651c8a85e27eb6d5c945032024b24b244f211f5e30d7e947",
+   "bytes": 5264
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/06/11.htm",
+   "path": "20230930/06/11.htm",
+   "sha256": "9aa60d2e35b348863e480e9666b25e20ef59b3c822bbe14ebd9a15c96af5f2c1",
+   "bytes": 8032
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/06/12.htm",
+   "path": "20230930/06/12.htm",
+   "sha256": "5ddc8cabeef50739f924b59c91461779e1117e84a7f69d46273ea9ef61d3c110",
+   "bytes": 4713
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/06/13.htm",
+   "path": "20230930/06/13.htm",
+   "sha256": "be9f9a98765fa2b55d56118b40a3621ab14ef80e8f41659ac4f7003328eb17ec",
+   "bytes": 9660
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/07/01.htm",
+   "path": "20230930/07/01.htm",
+   "sha256": "a7a9338d534421f65650c0a2a6140eb63f364957cecc27c5acea99b9dc00e775",
+   "bytes": 4289
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/07/02.htm",
+   "path": "20230930/07/02.htm",
+   "sha256": "1a992d2cc6a4d4da75c6788d4e2ccc9b3a1fdadbffb1da4024954f1fa775bd48",
+   "bytes": 22333
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/07/03.htm",
+   "path": "20230930/07/03.htm",
+   "sha256": "d8006f0df315b2e290b2cf9ed568f0261cc3680016d3530e61ca885bbe5a0f62",
+   "bytes": 5706
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/08/01.htm",
+   "path": "20230930/08/01.htm",
+   "sha256": "63c5b9fc8185bb1ca4b6456b0fdeec493122af9bcaf002dc0fac22d7205c9f98",
+   "bytes": 17516
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/08/02.htm",
+   "path": "20230930/08/02.htm",
+   "sha256": "073125af0b3b297d69cb84470af9705e6ea8074f03c9a5f1bbfa0a92eb5df475",
+   "bytes": 16480
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/08/03.htm",
+   "path": "20230930/08/03.htm",
+   "sha256": "0dc9771d478a423dff7f7eed6ab4907e297a60ab6e7a3f46aed84d3bbf2effba",
+   "bytes": 8473
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/09/01/01.htm",
+   "path": "20230930/09/01/01.htm",
+   "sha256": "ef45f09b0e61e0540b6f02772f8f9dc128a0ebb0e710d0cc8a1f9d4ac2adb511",
+   "bytes": 5681
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/09/01/02.htm",
+   "path": "20230930/09/01/02.htm",
+   "sha256": "91e9affd7c25e2b74eb76e29ec5b2d6e06599e5407a9ecadfec518e59f2642cc",
+   "bytes": 10205
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/09/01/03.htm",
+   "path": "20230930/09/01/03.htm",
+   "sha256": "2b71690e6053c9f46c4fac61bd52db104a75717ff5e02189ddf26611d63c2603",
+   "bytes": 6252
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/09/01/04.htm",
+   "path": "20230930/09/01/04.htm",
+   "sha256": "f9553ad485924861005b81f68d24d200bff427fc113bc2c0a2ca6f035a94af5f",
+   "bytes": 5572
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/09/01/05.htm",
+   "path": "20230930/09/01/05.htm",
+   "sha256": "2514d36a2a1caa947cad41abaf9701f56905c7f5ecda79b97323be0b04c6109e",
+   "bytes": 5970
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/09/01/06.htm",
+   "path": "20230930/09/01/06.htm",
+   "sha256": "b82e7ce6863f7538b8702395d3832ab2c7cc9df75c6778e88777a3294adfa4c8",
+   "bytes": 6844
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/09/04.htm",
+   "path": "20230930/09/04.htm",
+   "sha256": "5ac6b4137acdaa07608864c75ee042dc28889a2a7539d48ab336d8c495b6edbe",
+   "bytes": 4838
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/09/05.htm",
+   "path": "20230930/09/05.htm",
+   "sha256": "ee994d2f8625134c3d70c9df5b29e2ccf22d42a769b85116c9054ce3f98e87ca",
+   "bytes": 5451
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/09/06.htm",
+   "path": "20230930/09/06.htm",
+   "sha256": "e007345d56360d3023c337a99178e7f61344d379ee7396f475e28f47072a8afa",
+   "bytes": 4381
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/10/01.htm",
+   "path": "20230930/10/01.htm",
+   "sha256": "0fb074965c53bed861b28d64d8c15fe2707cf3838b68b2bf87d3374998c84540",
+   "bytes": 17284
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/10/02.htm",
+   "path": "20230930/10/02.htm",
+   "sha256": "b9d64a0f71fdf0360e236a841956b8b66d0e044eaae4318285fbd03c7b5e1a79",
+   "bytes": 5740
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/11/01.htm",
+   "path": "20230930/11/01.htm",
+   "sha256": "04798a50eecbdd70aea2eca69e82eacccc4e7d95236de486a441be5ef546b425",
+   "bytes": 9025
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/11/02.htm",
+   "path": "20230930/11/02.htm",
+   "sha256": "13e11c576ae8c11cb23cc9f5fd860b6da888314dbef4ef361d0661542addb9f7",
+   "bytes": 17104
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/11/03.htm",
+   "path": "20230930/11/03.htm",
+   "sha256": "aee6c9c8709fe481a2f7d69eaac8e336ba910717a8d8fc3c02550c7830e57bd9",
+   "bytes": 9684
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/11/04.htm",
+   "path": "20230930/11/04.htm",
+   "sha256": "7f5fbda6b7c2265beecdfcd8f02c3d11daac4280b765dccda5390ce7877b9515",
+   "bytes": 6832
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/11/05.htm",
+   "path": "20230930/11/05.htm",
+   "sha256": "a474a760d69199e100bf259e23c0731dcba8cd3866529ffa9a4e3d9a9f22692d",
+   "bytes": 9807
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/11/06.htm",
+   "path": "20230930/11/06.htm",
+   "sha256": "3ad3c26c7328f0eb39e09786cd26b53f36cd812507431f30a99713bae02c777b",
+   "bytes": 10420
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/11/08.htm",
+   "path": "20230930/11/08.htm",
+   "sha256": "35d68cffbb6f0a3db2d6732e10b457ce028984adadb7250b628621ce23f837b0",
+   "bytes": 7304
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/11/07.htm",
+   "path": "20230930/11/07.htm",
+   "sha256": "833411b5118bad8728c2f6c4c295c24568865efc1b22d8fda60f7dbfdbf22439",
+   "bytes": 4075
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/12/01/01.htm",
+   "path": "20230930/12/01/01.htm",
+   "sha256": "238bfdd78e9a1fbd1d75d3e94383be74a672c1a769428c472956bfd9da7d207f",
+   "bytes": 6893
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/12/01/02.htm",
+   "path": "20230930/12/01/02.htm",
+   "sha256": "e9ab0367690d481d87292bce5081cdf8ef2c7e614a7d673f85b83a7e698abede",
+   "bytes": 6036
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/12/01/03.htm",
+   "path": "20230930/12/01/03.htm",
+   "sha256": "1cf91aaa4216683607acb43a4897147d7fccf43b2966762376bfd24fbc3eaf70",
+   "bytes": 4492
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/12/02.htm",
+   "path": "20230930/12/02.htm",
+   "sha256": "16f0b8e422cbc9eabb5253286be41a956a59e07833555b84fbf6a855b4503621",
+   "bytes": 6536
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/12/03.htm",
+   "path": "20230930/12/03.htm",
+   "sha256": "dba88f765e930b93debad8fc62356d29321df0feed3046ee4be42019a7a39b38",
+   "bytes": 5374
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/12/04.htm",
+   "path": "20230930/12/04.htm",
+   "sha256": "c804f06ce28da2f156f23e1f731881b07cc069c0269a30c6ff947406f5bbedfd",
+   "bytes": 5690
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/12/05.htm",
+   "path": "20230930/12/05.htm",
+   "sha256": "2569ed11f017618bb4bed95e429347941ba4d873aea1e31c0f38a1ce3617c271",
+   "bytes": 4760
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/12/07.htm",
+   "path": "20230930/12/07.htm",
+   "sha256": "529c70e9ca86c45b983508cb1147389f160240330a898c98221fe127b118d9e9",
+   "bytes": 4806
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/12/06.htm",
+   "path": "20230930/12/06.htm",
+   "sha256": "ddb4362bcfae4e4365e8503b0ea1e355ea804b2e68cb1507ad6cf0b66b655925",
+   "bytes": 7632
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/13/01.htm",
+   "path": "20230930/13/01.htm",
+   "sha256": "2f60cee44ba40d1231dd5745fbf6ca664a36990ca66f1d1834554e52ecab15f3",
+   "bytes": 16135
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/13/02.htm",
+   "path": "20230930/13/02.htm",
+   "sha256": "b6d547ab02d6c4cd89bb5c8ea0a18180ed3531932068cf16d75e9b8bbab930fb",
+   "bytes": 13326
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/13/03.htm",
+   "path": "20230930/13/03.htm",
+   "sha256": "b848f46b4f9485a60d3e96cab2d90a2b2b2ae48bafcfafffaa64c97ba932ae26",
+   "bytes": 5200
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/13/04.htm",
+   "path": "20230930/13/04.htm",
+   "sha256": "4fdc7c10668091dbf8d1e18134b42030fcb22f312c06bf25ffce7fdbf73ea9d0",
+   "bytes": 5024
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/14/01/01.htm",
+   "path": "20230930/14/01/01.htm",
+   "sha256": "2b9c08ab1ca15158764716cac07d3b0160cf5cf8421fc7ce1823ae9efa6cfdbc",
+   "bytes": 7455
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/14/01/02.htm",
+   "path": "20230930/14/01/02.htm",
+   "sha256": "def6bd51f212fa6058a20d68c54af65721ad0237b4c22c951ff6a72a73f35f52",
+   "bytes": 6356
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/14/01/03.htm",
+   "path": "20230930/14/01/03.htm",
+   "sha256": "0fcad9ae7f1aae60c6e0864f38aa30353aaa6cbd5a99a11507d0699b7af158ee",
+   "bytes": 5365
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/14/02.htm",
+   "path": "20230930/14/02.htm",
+   "sha256": "f113039f7ec776abba869ae0f8b8485634bd21a2006a2fd257292b36e4e7df3d",
+   "bytes": 6066
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/15/01.htm",
+   "path": "20230930/15/01.htm",
+   "sha256": "1efd4a1b372e46ed4e87d946efe0bc8bd16dc996142f2c6e5a9ac61b7447e428",
+   "bytes": 18332
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/15/02.htm",
+   "path": "20230930/15/02.htm",
+   "sha256": "60daebd5466980859a685be99b9a93989ec7e3be7ff8c71df886ee7420b82c10",
+   "bytes": 9177
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/15/03.htm",
+   "path": "20230930/15/03.htm",
+   "sha256": "eeede3f9773ee8374a7ae481d61f7a07121fd1ef1739cbb583ca0b75ebfb85a1",
+   "bytes": 3857
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/15/04.htm",
+   "path": "20230930/15/04.htm",
+   "sha256": "baf2da3bf38ea6f100e264362ee270133abe62780d0abaea8f5843f43ec1af6a",
+   "bytes": 7946
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/15/05.htm",
+   "path": "20230930/15/05.htm",
+   "sha256": "7988629c29f37eca42bb932a42bd628a6e1c2d975091a1e08a426f6f2260c2ab",
+   "bytes": 4651
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/16/01.htm",
+   "path": "20230930/16/01.htm",
+   "sha256": "b54f98eb8ded51f34848ab5cc6a227c4130efbfcf5a1c691bc020265207f11e9",
+   "bytes": 7922
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/16/02.htm",
+   "path": "20230930/16/02.htm",
+   "sha256": "b9e97a40f016c02b7ca9407b6098b28702af2ba3e786ff22741a3940e75f9223",
+   "bytes": 11181
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/16/03.htm",
+   "path": "20230930/16/03.htm",
+   "sha256": "a3b5dfa82d795ee763b682eaacfc1f05a1e64d068fdd9ee5a7833fce711ade30",
+   "bytes": 8408
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/17/01.htm",
+   "path": "20230930/17/01.htm",
+   "sha256": "653324231f112c323169e8d6569e8f47bce4a432a54eb37f895e83cfb4504793",
+   "bytes": 5263
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/17/02.htm",
+   "path": "20230930/17/02.htm",
+   "sha256": "441dedc939ee8831013071a7bccfe5c051ef9198de6d689639804d0918b298e2",
+   "bytes": 4935
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/17/03.htm",
+   "path": "20230930/17/03.htm",
+   "sha256": "ace0da132da103edb6b44f197f4294ddf58ad4e61fd3f408d3d02b097ce69332",
+   "bytes": 3688
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/18/01.htm",
+   "path": "20230930/18/01.htm",
+   "sha256": "636587f0aa14c6b5519c00cf5fcdceffee75fc441630b92aceafc3ee0c26255a",
+   "bytes": 4884
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/20230930/19/01.htm",
+   "path": "20230930/19/01.htm",
+   "sha256": "b60c12519d195d18b249a94ced59b1d5939a8ee93c38b0c1bb94862f6c034210",
+   "bytes": 8468
+  }
+ ]
+}

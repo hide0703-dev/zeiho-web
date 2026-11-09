@@ -1,0 +1,249 @@
+{
+ "key": "hyoka_kt",
+ "title": "財産評価基本通達",
+ "entry": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/01.htm",
+ "scope": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/",
+ "fetched_at": "2026-11-09T04:01:03Z",
+ "pages": [
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/01.htm",
+   "path": "01.htm",
+   "sha256": "a4c9fc6d08f2426a294fbb96efbd7d4833e2c3c78a62bfa3b3d398edefc6ecdd",
+   "bytes": 36608
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/02.htm",
+   "path": "02.htm",
+   "sha256": "0e9595832f63cc22eb04c382532a819214f321865d270459184710f05fa57e65",
+   "bytes": 5560
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/01/01.htm",
+   "path": "01/01.htm",
+   "sha256": "59441a2a24b289444da1ffe1510027f9d559d4d9e36d725c468f61bb1f29a448",
+   "bytes": 8124
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/02/01.htm",
+   "path": "02/01.htm",
+   "sha256": "1c8bbf96d0fd5c1d2258681f50381f8b1e5fbb26872412e5ee991702c3addb24",
+   "bytes": 10181
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/02/02.htm",
+   "path": "02/02.htm",
+   "sha256": "61af27d38a3086cd331bd8e9e4ee227ce2e9dba0dc8e775cf8e46e84865eed3b",
+   "bytes": 9138
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/02/03.htm",
+   "path": "02/03.htm",
+   "sha256": "2c29c8dc94dde2c94c7bd64786090bc11359d2c118af901f9f19ae610eaf3db4",
+   "bytes": 16597
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/02/04.htm",
+   "path": "02/04.htm",
+   "sha256": "576c6e4159c851406c16155aef8873467dcc5ab45b1d850d8e53e37dc9050da3",
+   "bytes": 22200
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/02/05.htm",
+   "path": "02/05.htm",
+   "sha256": "000644a784c34c639a454a59db92e94038929b96604dc5af8087afeed0fcea0a",
+   "bytes": 11365
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/02/06.htm",
+   "path": "02/06.htm",
+   "sha256": "c836e305be34184b54ea149a1cd77b79628f25bcf1a5a0b8123d1d2bfebad314",
+   "bytes": 12277
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/02/07.htm",
+   "path": "02/07.htm",
+   "sha256": "223efe23d60435b8e44e60384fdc408ed720bedca6a6c558565ac6e75b4cb5c6",
+   "bytes": 36780
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/02/08.htm",
+   "path": "02/08.htm",
+   "sha256": "7c60d48e777147532b3ee2ed997665d9e6e94a28a2987022a4a0fe02d79aa2f0",
+   "bytes": 12876
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/02/09.htm",
+   "path": "02/09.htm",
+   "sha256": "4a0d46c1032efb3b8bd42a8b3511eac5bd38aecc4be22ef60c9ffdf614da31da",
+   "bytes": 8429
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/02/10.htm",
+   "path": "02/10.htm",
+   "sha256": "4b6eb4a6e68435484cad3ecad8357e6304632f425eef784351cdcf52f5ce4443",
+   "bytes": 14965
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/02/11.htm",
+   "path": "02/11.htm",
+   "sha256": "3c817d3378b6a3b2d89a0f905c84cd03978cace98fc6179d3c8233eb0edc3816",
+   "bytes": 11089
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/02/12.htm",
+   "path": "02/12.htm",
+   "sha256": "3c0e48e7b8004d144cd76cc6aa9a7404a688f95769fdbe84066beb650bb1672e",
+   "bytes": 3758
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/02/13.htm",
+   "path": "02/13.htm",
+   "sha256": "5d85b1f3e6ac01fa82d8e82ebecf363955323a30db634bf1957fc1f72f4b5afe",
+   "bytes": 3826
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/02/14.htm",
+   "path": "02/14.htm",
+   "sha256": "5309e37d3423bf65bcc14f0808ab525abe2e0c190565f664659491a5d9fca327",
+   "bytes": 3710
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/02/15.htm",
+   "path": "02/15.htm",
+   "sha256": "510532ced46546faf1e4a4462ce4290689a172ea1e1f156437a073c541ee6c6b",
+   "bytes": 7748
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/02/16.htm",
+   "path": "02/16.htm",
+   "sha256": "73280980e9afb883bf52af16cfa2525df6d856be9a57be1ebed9d188873520bf",
+   "bytes": 17054
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/03/01.htm",
+   "path": "03/01.htm",
+   "sha256": "9208b999d24fdb0baf956f8bcb90995f5205eda05303eab8d8c484256d655bc4",
+   "bytes": 8573
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/04/01.htm",
+   "path": "04/01.htm",
+   "sha256": "4d158f6837a78e9062adc928d38357c13e1597b90896aac9d4729ae8bbf65179",
+   "bytes": 4598
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/05/01.htm",
+   "path": "05/01.htm",
+   "sha256": "5169a424f019269be5a2460d0b7ee8245668cec08f3cbf001fa442541853f70d",
+   "bytes": 5669
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/05/02.htm",
+   "path": "05/02.htm",
+   "sha256": "b18248c0ab078b0911762dbbe2c4a30ca43b1ed3d8f82a12beedbcbca7f04f1b",
+   "bytes": 14916
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/05/03.htm",
+   "path": "05/03.htm",
+   "sha256": "f265dfda6f49b47981c503239ef9f6fa96e9d64c78cf48f6a9c775ccd7c0eec0",
+   "bytes": 9407
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/05/04.htm",
+   "path": "05/04.htm",
+   "sha256": "fda3fe06fa29ede2666aba32b554fee1425dcfbe6c8da6de481219e811b895e5",
+   "bytes": 5215
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/05/05.htm",
+   "path": "05/05.htm",
+   "sha256": "ce300d90874e37237b7c2348638e2e71b6e4961d1d781c8a1abb652655c00d39",
+   "bytes": 8082
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/06/01.htm",
+   "path": "06/01.htm",
+   "sha256": "8fe2ceeb2f8eb2310cfa5a1a1774a686e9a9b9f9eeb62263fbcdd5ec68df33a0",
+   "bytes": 5074
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/06/03.htm",
+   "path": "06/03.htm",
+   "sha256": "be3bf1d9c075793cb2f56e5cdad860247bab577a48255ccc1b15b54097535b5c",
+   "bytes": 7517
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/07/01.htm",
+   "path": "07/01.htm",
+   "sha256": "31e7bb447d422462880c8ee1a352c87a4fbe10fd5b040439bd9947f0c1550044",
+   "bytes": 12424
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/07/02.htm",
+   "path": "07/02.htm",
+   "sha256": "9f6b55de044c33785eac756de5f1f5a4df10c60d9884c9bfbdac73d7403fc084",
+   "bytes": 8304
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/08/01.htm",
+   "path": "08/01.htm",
+   "sha256": "07b55c9a8cb3b327752912c3727c91c66d85bfefa3562821eb4e4a1fc28ea09d",
+   "bytes": 14891
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/08/02.htm",
+   "path": "08/02.htm",
+   "sha256": "bb87c1d50af249c23004bdf88262a1a7915406f2ceabd8cad71e0a8f14a96936",
+   "bytes": 18854
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/08/03.htm",
+   "path": "08/03.htm",
+   "sha256": "0c2c7181f280883681bc352de29dbad0ac629f95832f8b0ce061d670b6573ecb",
+   "bytes": 14623
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/08/04.htm",
+   "path": "08/04.htm",
+   "sha256": "f1d571d137cb327401c3372d91a5b1492a9b78a7278b22f62a0a0dad035e92bf",
+   "bytes": 18631
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/08/05.htm",
+   "path": "08/05.htm",
+   "sha256": "f9accbe453abde26b5bfc333d912f275c6029aa6e52463a738eb11de52b4b043",
+   "bytes": 19687
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/08/06.htm",
+   "path": "08/06.htm",
+   "sha256": "3af69f8bb41263e31955640861df900b0d91508de9838e70f51a3b1e142858c4",
+   "bytes": 13165
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/08/07.htm",
+   "path": "08/07.htm",
+   "sha256": "491e3790267144d9120737fa84a88ed0e14fed02175cb87c229a4493a14fb0d9",
+   "bytes": 14674
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/08/08.htm",
+   "path": "08/08.htm",
+   "sha256": "56d653785d779a730d935a7ec23a75bb3727c5227c17790690e1bf9877a025cc",
+   "bytes": 21434
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/08/09.htm",
+   "path": "08/09.htm",
+   "sha256": "b55774ded7e41da08a3622409e04568afa789fe19add5ddd77a803d56b7f1d06",
+   "bytes": 18816
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/08/09_2.htm",
+   "path": "08/09_2.htm",
+   "sha256": "8587cb06a527a6cf2d0f881245f9080346ecab49f4a3270d60ac19bb87c28670",
+   "bytes": 9751
+  }
+ ]
+}

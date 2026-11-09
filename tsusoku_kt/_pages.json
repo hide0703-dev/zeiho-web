@@ -1,0 +1,291 @@
+{
+ "key": "tsusoku_kt",
+ "title": "国税通則法基本通達（徴収部関係）",
+ "entry": "https://www.nta.go.jp/law/tsutatsu/kihon/tsusoku/mokuji.htm",
+ "scope": "https://www.nta.go.jp/law/tsutatsu/kihon/tsusoku/",
+ "fetched_at": "2026-11-09T04:09:10Z",
+ "pages": [
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/tsusoku/mokuji.htm",
+   "path": "mokuji.htm",
+   "sha256": "5926fa94f26ab3972567942bb9c5dfff15ad2275bccb36b30e55fb0c6deae81a",
+   "bytes": 49283
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/tsusoku/01/01/02.htm",
+   "path": "01/01/02.htm",
+   "sha256": "4b921b8f16dbd12f31816e65936f2cb969d52d616214b3ea0e8707cf6c645b4b",
+   "bytes": 20352
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/tsusoku/01/02/05.htm",
+   "path": "01/02/05.htm",
+   "sha256": "e20316aa4e263a33a4ee124cc5d00cdbeabda994cd823153abc247cfa62c1cd4",
+   "bytes": 12581
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/tsusoku/01/02/06.htm",
+   "path": "01/02/06.htm",
+   "sha256": "e7d3d7b7fe233ccd820ffa405b7ec3c56b2d723a40e798e712c16a0b39b3143f",
+   "bytes": 4430
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/tsusoku/01/02/07.htm",
+   "path": "01/02/07.htm",
+   "sha256": "890ad0db2ddd1d67540b32f8ab1e3c1be34b025ccffac3846f01142eab07f7c7",
+   "bytes": 4759
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/tsusoku/01/02/07_2.htm",
+   "path": "01/02/07_2.htm",
+   "sha256": "35a3e4221f00bbfddc5bb7f8d03f039f4ca1667d8e9f6cd827158b3a24f44eb2",
+   "bytes": 4869
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/tsusoku/01/02/08.htm",
+   "path": "01/02/08.htm",
+   "sha256": "53d138240a9a8c67ad4abaa5189ef915fdb542379720063631718aa67ebd8b55",
+   "bytes": 9443
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/tsusoku/01/02/09.htm",
+   "path": "01/02/09.htm",
+   "sha256": "63e1ffb91be49a419ae47b74f9266b0a86835f5c6247ac5a193b8be067fb1cb5",
+   "bytes": 4297
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/tsusoku/01/02/09_2.htm",
+   "path": "01/02/09_2.htm",
+   "sha256": "240d27765b85e55c3fc030301e5197203e5867fbb8f96bf35e68051ee3cccde7",
+   "bytes": 6671
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/tsusoku/01/03/10.htm",
+   "path": "01/03/10.htm",
+   "sha256": "db064ff42e5c5eb875c32ade45d4cad2e38908e2ba5294a2bb7b1804e8bdf70e",
+   "bytes": 6273
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/tsusoku/01/03/11.htm",
+   "path": "01/03/11.htm",
+   "sha256": "2c22abc23325de04775fe19b6df68b98c21e5a9a64dc00941c40adbb5f3f8917",
+   "bytes": 5810
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/tsusoku/01/04/12.htm",
+   "path": "01/04/12.htm",
+   "sha256": "b39178f02ec5a2976cb2afda1dd280ce8bbc867634746ed4b11f9255f82553b2",
+   "bytes": 9865
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/tsusoku/01/04/13.htm",
+   "path": "01/04/13.htm",
+   "sha256": "7c75e92bc2b3431c3c0e9c61ce1cbf8427914c1f2f960950e1bd9cdd98a89353",
+   "bytes": 4495
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/tsusoku/01/04/14.htm",
+   "path": "01/04/14.htm",
+   "sha256": "ca168f7fa7fa2bef13d4b0b9b82fe330b5a34dad08e5c000a3a6c30099fda700",
+   "bytes": 7022
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/tsusoku/03/01/34.htm",
+   "path": "03/01/34.htm",
+   "sha256": "11030189d40e691a4dd1b5bc383ad19c0355bd9b0b6c80d79c0c64086cab73fb",
+   "bytes": 6695
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/tsusoku/03/01/34_02.htm",
+   "path": "03/01/34_02.htm",
+   "sha256": "258e7769105232e7198f80711359b6d40d8f6eee8b0650c5e272b3eaa96e1035",
+   "bytes": 6140
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/tsusoku/03/02/36.htm",
+   "path": "03/02/36.htm",
+   "sha256": "9487b36b41b1a52190ac6a952dcfa7513eaaafdd880cbbc91036a99d619a252f",
+   "bytes": 4291
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/tsusoku/03/02/37.htm",
+   "path": "03/02/37.htm",
+   "sha256": "7062a30d82638fd5129fa013c38054f74765be6c429366794666bd0aa34eb7e0",
+   "bytes": 6057
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/tsusoku/03/02/38.htm",
+   "path": "03/02/38.htm",
+   "sha256": "b5442ad81aa7b6777ca721df2310ef071d5f90b32f638a7b9d375ebfc94d9897",
+   "bytes": 4968
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/tsusoku/03/02/39.htm",
+   "path": "03/02/39.htm",
+   "sha256": "4f112268e404e7038be11317a00a8e90d87262639d41fe2af26b12dc667dbfa2",
+   "bytes": 4409
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/tsusoku/03/03/41.htm",
+   "path": "03/03/41.htm",
+   "sha256": "eae8d073490271be49e6c58e74ca9e116919ef3fd935c6d2618ea6de73229b61",
+   "bytes": 6262
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/tsusoku/03/03/42.htm",
+   "path": "03/03/42.htm",
+   "sha256": "6e10dcc339953d1904b89bd20763d7a5071b177a691f9ee0580901425f106cc7",
+   "bytes": 12045
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/tsusoku/04/01/46.htm",
+   "path": "04/01/46.htm",
+   "sha256": "1859e87a2a9974fcfa124747f4d311641310dd656a9a2570d3f58097e62d5046",
+   "bytes": 20063
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/tsusoku/04/01/46-2.htm",
+   "path": "04/01/46-2.htm",
+   "sha256": "14b77641429ac78f55abb2769c2277a6ab7ebe42a73096e740a6138b2ad2dd29",
+   "bytes": 10019
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/tsusoku/04/01/47.htm",
+   "path": "04/01/47.htm",
+   "sha256": "2b81385c691f63e679b5a2af85f2035d9a15560bde2ec23120034bc4c8fb0b61",
+   "bytes": 4898
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/tsusoku/04/01/48.htm",
+   "path": "04/01/48.htm",
+   "sha256": "53d3c0f7566b67bc396a6eb0c4649051b73d26fd546b5117cb02f4fd754a3eb5",
+   "bytes": 6012
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/tsusoku/04/01/49.htm",
+   "path": "04/01/49.htm",
+   "sha256": "4c55c7405121d1b773e897f2c18d140bc1e91044259e1e7e392019654db86f56",
+   "bytes": 8404
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/tsusoku/04/02/50.htm",
+   "path": "04/02/50.htm",
+   "sha256": "2feed682d72231fb038c7cf54169bae7f5043d644e2c6ab470b56284f122c7fa",
+   "bytes": 9175
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/tsusoku/04/02/51.htm",
+   "path": "04/02/51.htm",
+   "sha256": "edbfd1e98fc6fad158720dd2919f2611956013374d340d8ebb6d296c42e9358f",
+   "bytes": 4975
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/tsusoku/04/02/52.htm",
+   "path": "04/02/52.htm",
+   "sha256": "738a462f798ce8b1a6338eb413260c13ddd6ec56d10a0fe4ad7e273a6c27769b",
+   "bytes": 9974
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/tsusoku/04/02/54.htm",
+   "path": "04/02/54.htm",
+   "sha256": "12918efac07012b04da941896a1e72241cdcbab232d7f9751f5cee4481efb997",
+   "bytes": 11460
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/tsusoku/04/02/55.htm",
+   "path": "04/02/55.htm",
+   "sha256": "3f8d238d8eb11ee29b2c6b79a89a48c3d882612d7b89b244a6b88f6d69488cfd",
+   "bytes": 8035
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/tsusoku/05/01/56.htm",
+   "path": "05/01/56.htm",
+   "sha256": "77605f061c5d6ff7b3d919fc7f113eb87da0dc98ee660ee7788c2254e945c3b1",
+   "bytes": 13736
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/tsusoku/05/01/57.htm",
+   "path": "05/01/57.htm",
+   "sha256": "201dabe6e00290316122d6a3d8df8c74bbea8a00ca8a05f06b5aabf68cd71fb7",
+   "bytes": 9053
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/tsusoku/05/01/58.htm",
+   "path": "05/01/58.htm",
+   "sha256": "172749eb40bf4c5a6f7a405b2b938cdd13c27d28ba003b73b53686f761be1f61",
+   "bytes": 9077
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/tsusoku/05/01/59.htm",
+   "path": "05/01/59.htm",
+   "sha256": "1d597cf450e596b2b50f16d2951502653d9511fcc6d63a8ebbe3cedaffc8c3b7",
+   "bytes": 5940
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/tsusoku/06/01/60.htm",
+   "path": "06/01/60.htm",
+   "sha256": "9d433e9a99152d7e7819f38ac0167f4d6e2ab0856c2923a4cb0069dbb8094b2f",
+   "bytes": 5263
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/tsusoku/06/01/62.htm",
+   "path": "06/01/62.htm",
+   "sha256": "d595ebaca77398bfa98d0bc580fabf5c09d5db8589646ae206f0fb097a444c46",
+   "bytes": 4194
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/tsusoku/06/01/63.htm",
+   "path": "06/01/63.htm",
+   "sha256": "8e9bb039a3de699b4121aebbdbbc8e15bfa4d88e307fef2f8b1ccb90eff9c968",
+   "bytes": 10435
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/tsusoku/06/01/64.htm",
+   "path": "06/01/64.htm",
+   "sha256": "12df1fbba42b222692d31fb10673a84da6c49ad6ba21ae72dfee1a90126fc2f7",
+   "bytes": 4811
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/tsusoku/07/02/72.htm",
+   "path": "07/02/72.htm",
+   "sha256": "ed1339759354f824092c9b52dc24e884737d8421e274f9ca5c0e16835ccebce6",
+   "bytes": 7014
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/tsusoku/07/02/73.htm",
+   "path": "07/02/73.htm",
+   "sha256": "057c8b9a60ebfb479d12d76004515d01673cb817b3472af642a2d89c3d9d348e",
+   "bytes": 5074
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/tsusoku/09/01/117.htm",
+   "path": "09/01/117.htm",
+   "sha256": "142211533be53ca4e1584ebd3989de30a2ceab75d89fd0389fd10ab9c6492b29",
+   "bytes": 9808
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/tsusoku/09/01/119.htm",
+   "path": "09/01/119.htm",
+   "sha256": "bc7f4b5a760ac218b7beddb6e4e58505b643bac47b36bb0f2d070d3d7574d0b3",
+   "bytes": 6931
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/tsusoku/09/01/120.htm",
+   "path": "09/01/120.htm",
+   "sha256": "42fb499b5e0ee1f27718e3467ae26ae00bfc5f98f5d614cb343efae54d99b3af",
+   "bytes": 5648
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/tsusoku/09/01/123.htm",
+   "path": "09/01/123.htm",
+   "sha256": "1d23c2198f29b32006e44500391bc46ce4fbea607fbe9abedded03f62cd9c452",
+   "bytes": 10631
+  },
+  {
+   "url": "https://www.nta.go.jp/law/tsutatsu/kihon/tsusoku/00.htm",
+   "path": "00.htm",
+   "sha256": "6a8735ab671c775dcc28903a866b2e69cf80ca04a8bf8dd4875c673fa74737a1",
+   "bytes": 38884
+  }
+ ]
+}
