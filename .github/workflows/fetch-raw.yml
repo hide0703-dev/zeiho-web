@@ -12,6 +12,8 @@ on:
 jobs:
   fetch:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
@@ -25,9 +27,13 @@ jobs:
           else
             python scripts/fetch_laws.py
           fi
-      - uses: actions/upload-artifact@v4
-        if: always()
-        with:
-          name: raw-laws
-          path: data/raw/
-          retention-days: 14
+      # 開発で原文を見られるよう、raw ブランチに置く（main・サイトには影響しない）
+      - name: raw ブランチに置く
+        run: |
+          cd data/raw
+          git init -q -b raw
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -q -m "原文XML $(date -u +%F)"
+          git push -q --force "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}" raw
